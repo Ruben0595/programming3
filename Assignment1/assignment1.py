@@ -3,6 +3,17 @@ from Bio import Entrez
 import xml.etree.ElementTree as ET
 from multiprocessing import Pool
 import sys
+import os
+
+path = 'output'
+
+# Check whether the specified path exists or not
+isExist = os.path.exists(path)
+
+if not isExist:
+  # Create a new directory because it does not exist 
+  os.makedirs(path)
+
 
 Entrez.api_key = '553ac3e1d61512611b1e05ed4675b9366d08'
 Entrez.email = 'rubenotter@gmail.com'
