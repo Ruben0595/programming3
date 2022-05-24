@@ -13,7 +13,7 @@ def get_papers(pmid):
 		file.write(handle.read())
 
 if __name__ == '__main__':
-	pmid = sys.argv[0]
+	pmid = sys.argv[1]
 	results = Entrez.read(Entrez.elink(dbfrom="pubmed",
                                    db="pmc",
                                    LinkName="pubmed_pmc_refs",
