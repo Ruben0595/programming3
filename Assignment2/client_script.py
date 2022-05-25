@@ -6,7 +6,14 @@ POISONPILL = "MEMENTOMORI"
 ERROR = "DOH"
 
 class Client():
-    def make_client_manager(ip, port, authkey):
+    def __init__(self, ip, port, authkey, poisonpill, error):
+        self.ip = ip
+        self.port = port
+        self.authkey = authkey
+        self.poisonpill = poisonpill
+        self.error = error
+
+    def make_client_manager(self, ip, port, authkey):
         """ Create a manager for a client. This manager connects to a server on the
             given address and exposes the get_job_q and get_result_q methods for
             accessing the shared queues from the server.
@@ -26,23 +33,23 @@ class Client():
 
 
 
-    def runclient(num_processes, ip, port, authkey):
-        manager = make_client_manager(ip, port, authkey)
+    def runclient(self, num_processes):
+        manager = self.make_client_manager(self.ip, self.port, self.authkey)
         job_q = manager.get_job_q()
         result_q = manager.get_result_q()
-        run_workers(job_q, result_q, num_processes)
+        self.run_workers(job_q, result_q, num_processes)
         
-    def run_workers(job_q, result_q, num_processes):
+    def run_workers(self, job_q, result_q, num_processes):
         processes = []
         for p in range(num_processes):
-            temP = mp.Process(target=peon, args=(job_q, result_q))
+            temP = mp.Process(target=self.peon, args=(job_q, result_q))
             processes.append(temP)
             temP.start()
         print("Started %s workers!" % len(processes))
         for temP in processes:
             temP.join()
 
-    def peon(job_q, result_q):
+    def peon(self, job_q, result_q):
         my_name = mp.current_process().name
         while True:
             try:

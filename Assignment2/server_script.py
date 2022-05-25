@@ -5,7 +5,11 @@ import os, sys, time, queue
 POISONPILL = "MEMENTOMORI"
 
 class Server():
-    def make_server_manager(port, authkey):
+    def __init__(self, port, poisonpill):
+        self.port = port
+        self.poisonpill = poisonpill
+
+    def make_server_manager(self, port, authkey):
         """ Create a manager for the server, listening on the given port.
             Return a manager object with get_job_q and get_result_q methods.
         """
@@ -27,9 +31,9 @@ class Server():
         return manager
 
 
-    def runserver(fn, data, portnumber):
+    def runserver(self, fn, data, portnumber):
         # Start a shared manager server and access its queues
-        manager = make_server_manager(portnumber, b'whathasitgotinitspocketsesss?')
+        manager = self.make_server_manager(portnumber, b'whathasitgotinitspocketsesss?')
         shared_job_q = manager.get_job_q()
         shared_result_q = manager.get_result_q()
         
