@@ -8,7 +8,7 @@ blast() {
 	blastp -query MCRA.faa -db refseq_protein/refseq_protein -num_threads $1 -outfmt 6 >> blastoutput.txt
 }
 
-for i in {60..66}
+for i in {1..16}
 do
 echo '------------' >> output/timings.txt
 echo "threads $i" >> output/timings.txt
