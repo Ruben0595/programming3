@@ -20,7 +20,7 @@ Entrez.email = 'rubenotter@gmail.com'
 
 def get_papers(pmid):
 	handle = Entrez.efetch(db="pmc", id=pmid, rettype="XML", retmode="text")
-	with open(f'output/{pmid}.xml', 'wb') as file:
+	with open(f'./output/{pmid}.xml', 'wb') as file:
 		file.write(handle.read())
 
 if __name__ == '__main__':
