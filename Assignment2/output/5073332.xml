@@ -1,0 +1,853 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Sci Rep</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Sci Rep</journal-id>
+      <journal-title-group>
+        <journal-title>Scientific Reports</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2045-2322</issn>
+      <publisher>
+        <publisher-name>Nature Publishing Group</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">27767123</article-id>
+      <article-id pub-id-type="pmc">5073332</article-id>
+      <article-id pub-id-type="pii">srep35421</article-id>
+      <article-id pub-id-type="doi">10.1038/srep35421</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Differentially expressed circulating LncRNAs and mRNA identified by microarray analysis in obese patients</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sun</surname>
+            <given-names>Jia</given-names>
+          </name>
+          <xref ref-type="aff" rid="a1">1</xref>
+          <xref ref-type="author-notes" rid="n1">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ruan</surname>
+            <given-names>Yuting</given-names>
+          </name>
+          <xref ref-type="aff" rid="a1">1</xref>
+          <xref ref-type="author-notes" rid="n1">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Wang</surname>
+            <given-names>Ming</given-names>
+          </name>
+          <xref ref-type="aff" rid="a2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Rongping</given-names>
+          </name>
+          <xref ref-type="aff" rid="a1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Yu</surname>
+            <given-names>Na</given-names>
+          </name>
+          <xref ref-type="aff" rid="a3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sun</surname>
+            <given-names>Lei</given-names>
+          </name>
+          <xref ref-type="aff" rid="a4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Tiemin</given-names>
+          </name>
+          <xref ref-type="corresp" rid="c1">a</xref>
+          <xref ref-type="aff" rid="a5">5</xref>
+          <xref ref-type="aff" rid="a6">6</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Hong</given-names>
+          </name>
+          <xref ref-type="corresp" rid="c2">b</xref>
+          <xref ref-type="aff" rid="a1">1</xref>
+        </contrib>
+        <aff id="a1"><label>1</label><institution>Department of Endocrinology, Zhujiang Hospital, Southern Medical University</institution>, Guangzhou, <country>China</country></aff>
+        <aff id="a2"><label>2</label><institution>Nephrology center of integrated traditional Chinese and Western Medicine, Zhujiang Hospital, Southern Medical University</institution>, Guangzhou, <country>China</country></aff>
+        <aff id="a3"><label>3</label><institution>The Second Clinical College of Southern Medical University</institution>, Guangzhou, <country>China</country></aff>
+        <aff id="a4"><label>4</label><institution>The Cardiovascular and Metabolic Disorders Program, Duke-NUS Graduate Medical School</institution>, <country>Singapore</country></aff>
+        <aff id="a5"><label>5</label><institution>The Third Affiliated Hospital, Harbin Medical University</institution>, Harbin, <country>China</country></aff>
+        <aff id="a6"><label>6</label><institution>Division of Hypothalamic Research, Department of Internal Medicine, UT Southwestern Medical Center</institution>, Dallas, Texas, <country>USA</country></aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="c1">
+          <label>a</label>
+          <email>tiemin.liu@utsouthwestern.edu</email>
+        </corresp>
+        <corresp id="c2">
+          <label>b</label>
+          <email>chenhong82330@163.com</email>
+        </corresp>
+        <fn id="n1">
+          <label>*</label>
+          <p>These authors contributed equally to this work.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>21</day>
+        <month>10</month>
+        <year>2016</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2016</year>
+      </pub-date>
+      <volume>6</volume>
+      <elocation-id>35421</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>21</day>
+          <month>03</month>
+          <year>2016</year>
+        </date>
+        <date date-type="accepted">
+          <day>27</day>
+          <month>09</month>
+          <year>2016</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright &#xA9; 2016, The Author(s)</copyright-statement>
+        <copyright-year>2016</copyright-year>
+        <copyright-holder>The Author(s)</copyright-holder>
+        <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+          <!--author-paid-->
+          <license-p>This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article&#x2019;s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link></license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Circulating long non-coding RNAs (lncRNAs) serve as valuable biomarkers in a number of human diseases. However, lncRNA biomarkers have yet to be identified in obesity. We aim to characterize circulating lncRNA expression in obese and non-obese human subjects. First, we assessed the genome-wide circulating lncRNA expression profiles in blood from 3 obese and 3 non-obese human subjects. We found a significant decrease in circulating levels of three lncRNAs (lncRNA-p5549, lncRNA-p21015 and lncRNA-p19461) in obese human subjects only. Next, using RT-PCR we measured the expression levels of these three lncRNAs in 33 obese and 33 non-obese human subjects and found similar differences. Moreover, we found a negative correlation between circulating levels of these three lncRNAs and body mass index (BMI), waist circumference, waist to hip ratio and fasting insulin. There was also a significant negative correlation between expression of lncRNA-p19461 and homeostasis model assessment-estimated insulin resistance. Finally, we tested the circulating levels of these three lncRNAs in 8 obese human subjects after a 12-week diet-induced weight loss program. We found that only lncRNA-p19461 expression level significantly increased. In summary, circulating lncRNAs are deregulated in obesity. Weight loss&#x2013;induced changes in this profile support this observation and suggest a potential mechanistic relevance.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <p>Long noncoding RNAs (lncRNAs) are conventionally defined as a transcript longer than 200 nucleotides in length that lack protein-coding capability<xref ref-type="bibr" rid="b1">1</xref>. LncRNAs have been found in a stable form, protected from endogenous RNase activity, in tissues and body fluids including urine and blood<xref ref-type="bibr" rid="b2">2</xref><xref ref-type="bibr" rid="b3">3</xref><xref ref-type="bibr" rid="b4">4</xref><xref ref-type="bibr" rid="b5">5</xref>. The major role of lncRNAs is to regulate cell growth, proliferation, differentiation, and apoptosis<xref ref-type="bibr" rid="b6">6</xref><xref ref-type="bibr" rid="b7">7</xref><xref ref-type="bibr" rid="b8">8</xref><xref ref-type="bibr" rid="b9">9</xref><xref ref-type="bibr" rid="b10">10</xref><xref ref-type="bibr" rid="b11">11</xref>. Recent deep sequencing of human exosomes has shown that lncRNAs are localized within micro-vesicles, suggesting that lncRNAs may also play an important role in intercellular communication networks<xref ref-type="bibr" rid="b12">12</xref>. lncRNAs have also been implicated in the metabolic effects of insulin and the development of insulin resistance. Ellis <italic>et al</italic>. observed that insulin and insulin-like growth factor (IGF) 1 signaling triggered distinct changes in lncRNA CRNDE expression<xref ref-type="bibr" rid="b13">13</xref>.</p>
+    <p>lncRNAs serve as valuable biomarkers in a number of human diseases. For example, lncRNA transcript MVIH has been shown to be significantly up-regulated in hepatocellular carcinoma (HCC), suggesting that it might be an attractive biomarker for risk prognostication and personal therapy screening of HCC patients after hepatectomy<xref ref-type="bibr" rid="b14">14</xref>. Additionally, lncRNA transcript H19 is highly expressed in gastric cancer and is correlated with TNM cancer staging<xref ref-type="bibr" rid="b15">15</xref><xref ref-type="bibr" rid="b16">16</xref>. The expression of lncRNA transcript DD3 (PCA3) in urine also serves as a very sensitive and specific marker to detect prostate tumors, which may be used for clinical application<xref ref-type="bibr" rid="b17">17</xref>. Further evidence of the utility of lncRNAs in diagnosing/prognosing disease includes the dynamic change of the mitochondrial long noncoding RNA (LIPCAR) during myocardial infarction that predicted future death in patients with heart failure<xref ref-type="bibr" rid="b18">18</xref>. More recently, Zhao and Lin reported significant and specific regulation of 175 lncRNAs during adipogenesis using global transcriptome profiling of undifferentiated and mature adipocytes from the WAT and BAT lineages<xref ref-type="bibr" rid="b19">19</xref>. Finally, using Illumina microarrays, Divoux <italic>et al</italic>. identified a lncRNA (HOTAIR) that was expressed in gluteal adipose, but not in abdominal adipose tissue in 35 obese subjects, suggesting that lncRNAs may regulate key processes in adipocyte differentiation<xref ref-type="bibr" rid="b20">20</xref>. To the best of our knowledge, no data are available on changes in expression levels of circulating lncRNA in the obese state. With an unprecedented rise in worldwide obesity and its associated diseases, linking changes in levels of individual lncRNAs and obesity would be very valuable. It is well established that obesity is associated with lower quality of life, reduced life expectancy and increased risk of type 2 diabetes<xref ref-type="bibr" rid="b21">21</xref>, fatty liver disease<xref ref-type="bibr" rid="b22">22</xref>, cardiovascular disease<xref ref-type="bibr" rid="b23">23</xref>, and cancers<xref ref-type="bibr" rid="b24">24</xref>. Risk of obesity is likely determined by genetic makeup in close relationship with behavioral and environmental factors<xref ref-type="bibr" rid="b25">25</xref><xref ref-type="bibr" rid="b26">26</xref><xref ref-type="bibr" rid="b27">27</xref>. However, the exact pathogenesis of this disease remains elusive and calls for a broader view of the complex systems of energy balance regulation. Identification of accurate and reproducible noninvasive metabolic biomarkers of obesity may advance prevention, diagnosis and treatment options for the disease. Increasing evidence indicates that lncRNAs may provide insight into regulating gene expression related to obesity<xref ref-type="bibr" rid="b28">28</xref>. In the current study, we investigate the expression profile of lncRNAs and related mRNAs in obese patients, with the broader goal of identifying obesity-affecting genes and understanding the pathogenesis of obesity.</p>
+    <sec disp-level="1">
+      <title>Results</title>
+      <sec disp-level="2">
+        <title>Comprehensive circulating lncRNAs profiling in the blood samples from obese and non-obese participants</title>
+        <p>We designed a pilot study to identify the circulating lncRNA signature in obese patients (<xref ref-type="fig" rid="f1">Fig. 1</xref>). We tested whether any significant changes in lncRNA expression was observed in obese and non-obese participants&#x2019; blood samples. lncRNA arrays were performed using RNA derived from whole blood sample of participants. <xref ref-type="table" rid="t1">Table 1</xref> summarizes anthropometric and metabolic characteristics of study participants. The lncRNA expression patterns between 3 obese and 3 non-obese blood samples were found to be significantly different. Using a 2-fold expression difference as a cutoff, a total of 249 lncRNA transcripts were specifically dysregulated (213 lncRNA transcripts upregulated and 36 lncRNA transcripts downregulated; each <italic>p</italic>&#x2009;&lt;&#x2009;0.05) in obese participants, compared with non-obese participants. Additionally, a total of 393 mRNAs were specifically dysregulated among 34,235 mRNA including 362 mRNA upregulated and 31 mRNA downregulated (<xref ref-type="fig" rid="f2">Fig. 2</xref>, Online <xref ref-type="supplementary-material" rid="S1">Supplemental Materials 1</xref>). Filtering of all dysregulated transcripts for high signal intensity and &#x2265;6-fold deregulation yielded 9 lncRNA candidates. Only 3 (lncRNA-p5549, lncRNA-p21015 and lncRNA-p19461) of these 9 lncRNA candidates could be consistently dysregulated in a larger cohort of blood samples (33 obese participants and 33 healthy non-obese control participants). The expression levels of circulating lncRNA-p5549, lncRNA-p21015 and lncRNA-p19461 in obese participants were significantly decreased compared with non-obese participants (<xref ref-type="fig" rid="f3">Fig. 3</xref>, <italic>p</italic>&#x2009;=&#x2009;0.004, <italic>p</italic>&#x2009;=&#x2009;0.002 and <italic>p</italic>&#x2009;=&#x2009;0.002, respectively). They were also negatively associated with BMI (<italic>p</italic>&#x2009;&lt;&#x2009;0.01 for all), waist circumference and waist to hip ratio (<xref ref-type="table" rid="t2">Table 2</xref>). Moreover, the expression level of circulating lncRNA-p19461 was negatively associated with HOMA-IR. After adjusting the important cofactors of HOMA-IR and found that the expression levels of circulating lncRNA-p19461 in obese participants remained significantly decreased compared with non-obese participants (<italic>p</italic>&#x2009;=&#x2009;0.014). Taken together, these results suggest a link between obesity and the level of circulating lncRNAs.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Tissue expression pattern of the circulating lncRNA-p5549, lncRNA-p21015 and lncRNA-p19461 in blood components and adipose tissue</title>
+        <p>Since we extracted RNA from whole blood sample, we needed to explore further the origin of total RNA. As shown in <xref ref-type="fig" rid="f4">Fig. 4</xref>, expression levels of these three lncRNAs in adipose tissue far outweighed that in peripheral blood. Additionally, these lncRNAs mainly existed in plasma rather than haemocytes.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Effect of weight loss on the expression levels of circulating lncRNA-p5549, lncRNA-p21015 and lncRNA-p19461</title>
+        <p>Dietary intervention of very low carbohydrate diet (VLCD) is a feasible alternative recommendation for weight loss<xref ref-type="bibr" rid="b29">29</xref>. Emerging evidence has consistently shown that a VLCD can protect against the development of obesity, but the underlying mechanisms are not fully understood<xref ref-type="bibr" rid="b30">30</xref>. Nine of the 33 obese participants agreed to take part in VLCD and were placed on a 12-week diet-induced weight loss program. One participant dropped out because of nausea, leaving 8 remaining obese participants (4 males and 4 females) in the final analysis. After 12 weeks, these 8 obese participants lost on average approximately 8% of their initial body weight (<xref ref-type="table" rid="t3">Table 3</xref>). We observed sex differences of VLCD weight loss; the effects of weight loss were more obvious in females than in males (mean difference of BMI, &#x2212;3.85 vs. &#x2212;1.68, p&#x2009;=&#x2009;0.013). We tested the expression levels of circulating lncRNA-p5549, lncRNA-p21015 and lncRNA-p19461 in plasma samples at 12 weeks post-VLCD. The expression levels of circulating lncRNA-p5549 and lncRNA-p21015 were not significantly different compared to pre-VLCD levels. In contrast, the expression level of circulating lncRNA-p19461 was significantly upregulated (<xref ref-type="fig" rid="f5">Fig. 5</xref>).</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Gene Enrichment and Pathway Analysis of lncRNA-Coexpressed mRNA</title>
+        <p>Gene enrichment analysis was performed to determine the gene and gene product enrichment in biological processes, cellular components, and molecular functions<xref ref-type="bibr" rid="b31">31</xref>. As shown in <xref ref-type="fig" rid="f6">Fig. 6A</xref>, we found that the highest enriched GOs targeted by lncRNAs&#x2013;coexpressed mRNAs were responses to DNA damage (ontology: biological process), stimulus small conjugating protein binding (ontology: molecular function), and nuclear lumen (ontology: cellular component). Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analysis indicated that the lncRNAs&#x2013;coexpressed mRNAs were involved in the regulation of Toll-like receptor signaling pathway, fatty acid metabolism, antigen processing and presentation, intestinal immune network for IgA production, and MAPK signaling pathway (<xref ref-type="fig" rid="f6">Fig. 6B</xref>).</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Construction of lncRNA/mRNA Coexpression Network</title>
+        <p>The microarray data also provided information on mRNA expression between obese and non-obese participants. We constructed the lncRNA/mRNA coexpression network and investigated the potential interaction between mRNAs and lncRNAs. One hundred forty-five mRNAs interacted with these three lncRNAs in 10 meaningful pathways. We drew the regulatory network of lncRNA-p5549, lncRNA-p21015 and lncRNA-p19461 using the cytoscape program (<xref ref-type="fig" rid="f7">Fig. 7</xref>, Online <xref ref-type="supplementary-material" rid="S1">Supplemental Materials 2</xref>). The network indicated that each lncRNA correlated with a large number of target mRNAs suggesting that the inter-regulation of lncRNAs and mRNAs occurred in the obese state only.</p>
+      </sec>
+    </sec>
+    <sec disp-level="1">
+      <title>Discussion</title>
+      <p>Knowledge of lncRNA species and biology is emerging rapidly, however bioinformatic strategies for identifying their functionality is still deficient<xref ref-type="bibr" rid="b32">32</xref>. There is limited knowledge of lncRNA regulation in human peripheral blood or their role in human disease. In this study, we identified 249 lncRNAs and 392 mRNAs abnormally expressed in blood samples of obese participants compared with non-obese participants (fold change &#x2265;2.0, <italic>p</italic>&#x2009;&lt;&#x2009;0.05). We demonstrated that lncRNA-p5549, lncRNA-p21015 and lncRNA-p19461 were downregulated in obese patients compared with controls using qRT-PCR. In addition, there was a significant correlation between circulating levels of these three lncRNAs and BMI, waist circumference and waist to hip ratio. However, there was no observed association between these three lncRNAs and obesity-associated inflammation markers (interleukin-6 and C-reactive protein). We further detected the possible sources of the circulating lncRNAs in blood components (plasma, neutrophils, lymphocytes and monocytes) and adipose tissue. The expression level of these three lncRNAs in adipose tissue far outweighed that in peripheral blood. Additionally, these lncRNAs mainly existed in plasma instead of haemocytes. We speculate that these circulating lncRNAs may derive partly from adipose tissue, a target organ in the development of obesity. However, we found no correlation between the expressions of lncRNAs in adipose tissue and BMI, suggesting that lncRNAs might be tissue-specific and dynamically regulated in obese patients. Finally, we studied the effects of a 12-week dietary intervention on serum metabolic profiles and circulating lncRNAs expression. We found that the diet intervention resulted in weight loss and significantly decreased fasting insulin and decreased levels of HOMA-IR. Interestingly, the circulating level of lncRNA-p19461 was negatively associated with insulin resistance and upregulated by diet-induced weight loss. Therefore, our findings suggest that a change in body weight regulates the expression levels of circulating lncRNAs such as lncRNA-p19461. Future studies with larger sample sizes may confirm the role of other two candidate lncRNAs after diet-induced weight loss.</p>
+      <p>To obtain novel insights into the function of lncRNAs, we used gene ontology enrichment analysis to construct a co-expression network by combining differentially expressed lncRNAs with differentially expressed mRNAs. lncRNA-mRNA interactions were thoroughly surveyed and identified based on their locational distributions and sequence correlations. The two members of each mRNA-lncRNA pair can overlap completely or partially (on the same strand). Some of them can also form duplexes through reverse complementary binding (from the sense/antisense strands), which may facilitate interactions between different RNA molecules. The mRNA and lncRNA from the same strands sometimes show opposite deregulation trends. Abnormal regulation in the lncRNA-mRNA network may be pivotal to the development of obesity. The different levels of final enrichment may be attributable to the regulatory mechanisms. In our study, we found 145 mRNAs interacted with these three lncRNAs in 10 meaningful pathways. The most enriched network was &#x2018;Toll-like receptor signaling pathway&#x2019;, which is known as a pro-inflammatory pathway. Previous studies have demonstrated that activation of the pro-inflammatory pathway is linked to obesity and insulin resistance<xref ref-type="bibr" rid="b33">33</xref><xref ref-type="bibr" rid="b34">34</xref>. Fat acid metabolism was the second richest pathway observed, suggesting that lncRNAs may influence the risk of obesity by regulation of fat acid metabolism. This outcome suggests that the inter-regulation of lncRNAs and mRNAs may be involved in the development or progression of obesity, warranting further study to confirm the relationship and underlying regulatory mechanism of these coding and noncoding genes.</p>
+      <p>Additionally, according to the analysis of the gene pairs formed by lncRNAs and their neighboring genes, we found many significant correlations between lncRNAs and multiple protein-coding genes. Most evidence suggests that the expression of lncRNAs can regulate and have high correlations with expression of neighboring mRNAs<xref ref-type="bibr" rid="b35">35</xref><xref ref-type="bibr" rid="b36">36</xref>. Based on this, we searched coding genes 10&#x2009;k/100&#x2009;k upstream and downstream of lncRNA as the cis target genes and predicted the function of lncRNA. Consequently, we found that many lncRNAs might exert their function through predicted mRNA. For example, we found that lncRNA-p5549 was associated with thymine-DNA glycosylase (TDG), which is involved in DNA repair<xref ref-type="bibr" rid="b37">37</xref><xref ref-type="bibr" rid="b38">38</xref>, DNA demethylation<xref ref-type="bibr" rid="b39">39</xref> and transcriptional regulation<xref ref-type="bibr" rid="b40">40</xref>. TDG can bind to DNA methylation enzymes to maintain normal methylation patterns, which might represent an important homeostatic mechanism of metabolism by epigenetic modifications. We also observed a coexistence phenomenon of p19461 and coiled-coil helix coiled-coil helix domain-containing protein 3 (CHCHD3). CHCHD3, an inner mitochondrial membrane protein, is essential for crista integrity, mitochondrial function and cellular energy metabolism<xref ref-type="bibr" rid="b41">41</xref>. Mitochondria are ancient organelles that are thought as critical elements of energy metabolism<xref ref-type="bibr" rid="b42">42</xref>. The impaired mitochondrial function damages the intracellular energy metabolism including physiological fat oxidation and promotes the accumulation of adipose tissue, increasing the risk of obesity. We speculate that p19461 may protect mitochondrial function through regulation of CHCHD3, accelerating fat oxidation and reducing the incidence rate of obesity. However, obese patients characterized by a high-fat high-glucose diet might result in downregulating of these lncRNAs, then reducing the energy consumption in the obese state. A genome-wide association study also identified CHCHD3 as promising gene for back fat in pigs<xref ref-type="bibr" rid="b43">43</xref>. Whether a similar association is found in humans remains to be investigated.</p>
+      <p>Our study has several limitations. The sample size for microarray analysis and verification was small and a larger sample cohort is needed to verify the identifications. In clinical practice, 5&#x2013;10&#x2009;ml is the typical volume drawn for a single blood draw. Unfortunately, this volume produces a low quantity of circulating mRNA in the blood sample. Similarly, the amount of tissue that could be feasibly obtained and the complexity of the tissue sample itself limited the quantity of tissue analyzed. Another possible limitation was the storage and transportation of samples which may have resulted in RNA degradation. Thus, the present study should be considered as hypothesis generating; further genetic and experimental investigations involving target genes and the onset of obesity is planned.</p>
+    </sec>
+    <sec disp-level="1">
+      <title>Materials and Methods</title>
+      <sec disp-level="2">
+        <title>Study Subjects</title>
+        <p><xref ref-type="fig" rid="f1">Figure 1</xref> illustrates the strategy of lncRNA screening and validation. The WHO recommends using BMI cut points to define obese and overweight adults. In China, BMIs of 24&#x2009;kg/m<sup>2</sup> and 28&#x2009;kg/m<sup>2</sup> are considered to be the cut points to classify normal weight, overweight and obesity<xref ref-type="bibr" rid="b44">44</xref>. We excluded individuals with microvascular diseases, hypertension, coronary disease, systemic inflammatory diseases, acute respiratory infection or cancers. To profile circulating lncRNAs, we recruited and drew blood samples from 3 obese patients (BMI&#x2009;&#x2265;&#x2009;28&#x2009;kg/m<sup>2</sup>) and 3 non-obese individuals (BMI&#x2009;&lt;&#x2009;24&#x2009;kg/m<sup>2</sup>) from the Endocrinology Department, Zhujiang Hospital of Southern Medical University (Guangzhou, China).</p>
+        <p>We identified dysregulated lncRNAs in obese patients for further analysis and validation. The association between the selected lncRNAs and obesity characteristics and prognosis was then analyzed in the circulation of an expanded cohort of obese patients (n&#x2009;=&#x2009;33) and nonobese controls (n&#x2009;=&#x2009;33). To explore further the origin of lncRNAs in whole blood of obese patients, we recruited 10 obese patients about to undergo surgery in the Department of General Surgery, Zhujiang Hospital. We selected these patients from a consecutive series of patients with obesity. The Research Ethics Committee of Zhujiang Hospital of Southern Medical University (2014-NFMK-005) approved the study protocol. We obtained written informed consent from all participants for the use of their blood specimens. The entire trial was conducted in accordance with the guidelines of the Research Committee of Zhujiang Hospital of Southern Medical University (Guangzhou, China) and the blood samples and tissue specimens were handled according to the guidelines of the Helsinki Declaration.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Blood and Tissue Collection</title>
+        <p>For lncRNA quantification, we collected a fasting venous blood sample (10&#x2009;ml) from each participant at least 12&#x2009;h following their most recent meal. Neutrophils were isolated by using improved Ficoll Solution (TBD). We isolated human peripheral blood mononuclear cells (PBMCs) using Lymphoprep (Axis-Shield, Norway). Monocytes were then enriched through positive immunomagnetic selection by using anti-CD14 MicroBeads (Miltenyi, Germany). Lymphocytes were isolated from PBMCs by fluorescence-activated cell sorting (Aria II Cell Sorter; BD Biosciences) according to manufacturer&#x2019;s instructions. All fluorescence-activated cell sorting data analysis was performed using FlowJo software (Tree Star). All leukocytes were isolated &lt;12&#x2009;h after collection. Lipid and glucose measurements were automated using Siemens Advia 2400 Clinical Chemistry System (Siemens, Erlangen, Germany). Human insulin levels were measured using a human INS ELISA Kit (R&amp;D Systems, Minneapolis, MN, USA). Immediately after surgery, we collected adipose tissues, washed in cold PBS, and stored in RNAlater RNA Stabilization Reagent (Qiagen) at &#x2212;20&#x2009;&#xB0;C for use.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>RNA Extraction</title>
+        <p>Total RNAs were extraction from the fasting whole blood samples using TRIpure LS Reagent (Bioteke, Beijing, China) in accordance with the manufacture&#x2019;s protocol, and stored at &#x2212;80&#x2009;&#xB0;C before use and were thawed on ice before use. Total cellular RNA was isolated from the fresh adipose tissues using an RNeasy Mini Kit (Qiagen, Hilden, Germany) according to the manufacturer&#x2019;s protocol. The RNA integrity of each sample was assessed using standard denaturing agarose gel electrophoresis.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>lncRNAs Microarray Profiling</title>
+        <p>We performed microarray profiling using Human LncRNA Microarray V4.0 (CapitalBio Corp, Beijing, China), including 34,235 mRNAs and 40,914 lncRNAs. Briefly, we labeled 10 &#x3BC;g of total RNAs using the Superscript Plus Direct cDNA labeling system (Invitrogen) followed by hybridization to the chip. We then scanned microarrays using an Agilent microarray scanner piloted by GenePix Pro 6.0 software (Axon). We imported scanned images (TIFF format) into Agilent Feature Extraction software for grid alignment and expression data analysis. Expression data were normalized by a quartile normalization and the Robust Multichip Average (RMA) algorithm that was included in the Agilent software. After normalization, we generated probe-level files and mRNA-level files. All gene-level files were imported into Agilent GeneSpring GX software (version 11.5.1) for further analysis. We identified differentially expressed lncRNAs and mRNAs through fold change filtering. The microarray data were selected by threshold values of &gt;2 and &lt;&#x2212;2 fold change under FDR protection (P&#x2009;&lt;&#x2009;0.05).</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Validation of lncRNA Gene Expression in Blood by Real-time Quantitative PCR (RT-PCR)</title>
+        <p>We performed RT-PCR quantification of lncRNA expression using TaqMan lncRNA assays (Applied Biosystems Inc., Foster City, CA) according to the manufacturer&#x2019;s protocol. We used the ABI Prism 7500 sequence detection system (Applied Biosystems, Foster City, CA) to perform RT-PCR. Briefly, reactions were performed in a mixture (20 &#x3BC;L) containing 5&#x3BC;L cDNA template, 10 &#x3BC;L 2 &#xD7; SYBR-Green PCR Mix (TaKaRa), and 0.5 &#x3BC;L each of sense and antisense primers. Additional File 1 shows the sequences of primers used for RT-PCR. We performed RT-PCR in duplicate for each sample, and estimated the specificity of PCR product through the dissociation curve. U6 small nuclear RNA was the internal control. For quantitative results, expression of each lncRNA was represented as a fold change using the 2<sup>&#x2212;&#x394;&#x394;Ct</sup> method and then analyzed for statistical significance.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Study of the Effects of Weight Loss</title>
+        <p>We performed a longitudinal validation study to investigate the expression levels of candidate lncRNAs before and after diet-induced weight loss in 9 obese patients (4 men and 5 women). We randomly selected this subpopulation from the cohort of 33 obese patients recruited at the Endocrinology Department of Zhujiang Hospital of Southern Medical University (Guangzhou, China). We gave selected obese patients individual instructions to follow the very low carbohydrate diet for 12 weeks. Energy intake was restricted to less than 1200&#x2009;kcal/day (5021&#x2009;kJ/d) (carbohydrate intake &lt;20&#x2009;g/d). We substituted carbohydrate-rich foods, such as white rice, steamed bread and tubers with fish, poultry and plant oil. We performed genomic measurements in plasma at baseline and 12 weeks after intervention start. We conducted the study protocol in accordance with the Declaration of Helsinki. The Ethics Committee and the Committee for Clinical Investigation of Zhujiang Hospital of Southern Medical University (2014-NFMK-005) approved the protocol. We obtained written informed consent from all patients after the purpose of the study was explained to them.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Bioinformatics Analysis</title>
+        <p>To determine the roles that differentially expressed mRNAs played in biological pathways or GO terms, we applied pathway analysis and GO analysis. Differentially regulated mRNAs were uploaded into the Database for Annotation, Visualization and Integrated Discovery (DAVID, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://david.abcc.ncifcrf.gov/">http://david.abcc.ncifcrf.gov/</ext-link>) for annotation and functional analysis, including gene set enrichment analysis and mapping gene sets to the KEGG pathway<xref ref-type="bibr" rid="b45">45</xref>. We also used the KEGG (Kyoto Encyclopedia of Genes and Genomes) database (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.genome.ad.jp/kegg">http://www.genome.ad.jp/kegg</ext-link>) and BioCarta (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://www.biocarta.com">http://www.biocarta.com</ext-link>) to analyze the potential functions of these target genes in the pathways<xref ref-type="bibr" rid="b46">46</xref><xref ref-type="bibr" rid="b47">47</xref>.</p>
+      </sec>
+      <sec disp-level="2">
+        <title>lncRNA/mRNA Coexpression Network</title>
+        <p>To associate the lncRNAs with direct regulated expression of target mRNAs, we superimposed lncRNA target predictions onto the lncRNA-mRNA correlation network. We defined the resulting network as an lncRNA-mRNA regulatory network. The algorithm was quoted from a previously described report<xref ref-type="bibr" rid="b48">48</xref>. For each pair of gene analysis, the Pearson correlation was calculated and we chose those pairs with significant correlations (0.90 or greater) to construct the network. We drew the coexpression networks using Cytoscape. In this representation, each gene corresponded to a node and the connection of two genes was represented by an edge, indicating a strong correlation (i.e. either positive or negative).</p>
+      </sec>
+      <sec disp-level="2">
+        <title>Statistical Analysis</title>
+        <p>Data were analyzed using SPSS version 22.0 software. Continuous variables were presented as means&#x2009;&#xB1;&#x2009;SD or median (interquartile range). More than 2-fold changes of individual lncRNAs were calculated for each subject by dividing the standardized expression levels of the lncRNAs. Differences in lncRNA levels between obese groups and control groups were analyzed using unpaired Student <italic>t</italic> test. <italic>p</italic> values less than.05 were considered statistically significant. To analyze interactions between potentially confounding effects of lifestyle features and other variables related to obesity, we additionally performed correlation analyses and logistic regression analyses for matched data that included expression levels of lncRNAs and the following variables: body mass index, waist circumference, waist-to-hip ratio, fasting glucose, fasting insulin, TC, TG, HDL cholesterol, LDL cholesterol, IL-6 and high-sensitivity C-reactive protein.</p>
+      </sec>
+    </sec>
+    <sec disp-level="1">
+      <title>Additional Information</title>
+      <p><bold>How to cite this article</bold>: Sun, J. <italic>et al</italic>. Differentially expressed circulating LncRNAs and mRNA identified by microarray analysis in obese patients. <italic>Sci. Rep.</italic>
+<bold>6</bold>, 35421; doi: 10.1038/srep35421 (2016).</p>
+    </sec>
+    <sec sec-type="supplementary-material" id="S1">
+      <title>Supplementary Material</title>
+      <supplementary-material id="d33e26" content-type="local-data">
+        <caption>
+          <title>Supplementary Dataset 1</title>
+        </caption>
+        <media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep35421-s1.xls"/>
+      </supplementary-material>
+      <supplementary-material id="d33e29" content-type="local-data">
+        <caption>
+          <title>Supplementary Dataset 2</title>
+        </caption>
+        <media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep35421-s2.xls"/>
+      </supplementary-material>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>This work was supported by grants to Hong Chen ((National Natural Science Foundation of China no. 81570716; Natural Science Foundation of Guangdong no. 2016A030313633; Science and Technology Planning Project of Guangdong Province of China 2013B021800315 &amp; 2014A020212177); Jia Sun (National Natural Science Foundation of China no. 81670783; National Natural Science Foundation of China no. 81300689; the Seedling Projects of Science Foundation of Guangdong Province of China, 2013LYM 0008; the Ministry of Education Foundation of China, 2013443312005) and Ming Wang (National Natural Science Foundation of China, 81403215).</p>
+    </ack>
+    <ref-list>
+      <ref id="b1">
+        <mixed-citation publication-type="journal"><name><surname>Kung</surname><given-names>J. T.</given-names></name>, <name><surname>Colognori</surname><given-names>D.</given-names></name> &amp; <name><surname>Lee</surname><given-names>J. T.</given-names></name>
+<article-title>Long noncoding RNAs: past, present, and future</article-title>. <source>Genetics</source>
+<volume>193</volume>, <fpage>651</fpage>&#x2013;<lpage>669</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">23463798</pub-id></mixed-citation>
+      </ref>
+      <ref id="b2">
+        <mixed-citation publication-type="journal"><name><surname>Liang</surname><given-names>L.</given-names></name>, <name><surname>Ai</surname><given-names>L.</given-names></name>, <name><surname>Qian</surname><given-names>J.</given-names></name>, <name><surname>Fang</surname><given-names>J. Y.</given-names></name> &amp; <name><surname>Xu</surname><given-names>J.</given-names></name>
+<article-title>Long noncoding RNA expression profiles in gut tissues constitute molecular signatures that reflect the types of microbes</article-title>. <source>Sci Rep</source>
+<volume>5</volume>, <fpage>11763</fpage> (<year>2015</year>).<pub-id pub-id-type="pmid">26123364</pub-id></mixed-citation>
+      </ref>
+      <ref id="b3">
+        <mixed-citation publication-type="journal"><name><surname>Pauli</surname><given-names>A.</given-names></name>
+<etal/>. <article-title>Systematic identification of long noncoding RNAs expressed during zebrafish embryogenesis</article-title>. <source>Genome Res</source>
+<volume>22</volume>, <fpage>577</fpage>&#x2013;<lpage>591</lpage> (<year>2012</year>).<pub-id pub-id-type="pmid">22110045</pub-id></mixed-citation>
+      </ref>
+      <ref id="b4">
+        <mixed-citation publication-type="journal"><name><surname>Martens-Uzunova</surname><given-names>E. S.</given-names></name>
+<etal/>. <article-title>Long noncoding RNA in prostate, bladder, and kidney cancer</article-title>. <source>Eur Urol</source>
+<volume>65</volume>, <fpage>1140</fpage>&#x2013;<lpage>1151</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">24373479</pub-id></mixed-citation>
+      </ref>
+      <ref id="b5">
+        <mixed-citation publication-type="journal"><name><surname>Arita</surname><given-names>T.</given-names></name>
+<etal/>. <article-title>Circulating long non-coding RNAs in plasma of patients with gastric cancer</article-title>. <source>Anticancer Res</source>
+<volume>33</volume>, <fpage>3185</fpage>&#x2013;<lpage>3193</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">23898077</pub-id></mixed-citation>
+      </ref>
+      <ref id="b6">
+        <mixed-citation publication-type="journal"><name><surname>Xia</surname><given-names>T.</given-names></name>
+<etal/>. <article-title>Long noncoding RNA FER1L4 suppresses cancer cell growth by acting as a competing endogenous RNA and regulating PTEN expression</article-title>. <source>Sci Rep</source>
+<volume>5</volume>, <fpage>13445</fpage> (<year>2015</year>).<pub-id pub-id-type="pmid">26306906</pub-id></mixed-citation>
+      </ref>
+      <ref id="b7">
+        <mixed-citation publication-type="journal"><name><surname>Guttman</surname><given-names>M.</given-names></name>
+<etal/>. <article-title>lincRNAs act in the circuitry controlling pluripotency and differentiation</article-title>. <source>Nature</source>
+<volume>477</volume>, <fpage>295</fpage>&#x2013;<lpage>300</lpage> (<year>2011</year>).<pub-id pub-id-type="pmid">21874018</pub-id></mixed-citation>
+      </ref>
+      <ref id="b8">
+        <mixed-citation publication-type="journal"><name><surname>Wang</surname><given-names>K. C.</given-names></name> &amp; <name><surname>Chang</surname><given-names>H. Y.</given-names></name>
+<article-title>Molecular mechanisms of long noncoding RNAs</article-title>. <source>Molecular cell</source>
+<volume>43</volume>, <fpage>904</fpage>&#x2013;<lpage>914</lpage> (<year>2011</year>).<pub-id pub-id-type="pmid">21925379</pub-id></mixed-citation>
+      </ref>
+      <ref id="b9">
+        <mixed-citation publication-type="journal"><name><surname>Yang</surname><given-names>J. J.</given-names></name>, <name><surname>Tao</surname><given-names>H.</given-names></name>, <name><surname>Deng</surname><given-names>Z. Y.</given-names></name>, <name><surname>Lu</surname><given-names>C.</given-names></name> &amp; <name><surname>Li</surname><given-names>J.</given-names></name>
+<article-title>Non-coding RNA-mediated epigenetic regulation of liver fibrosis</article-title>. <source>Metabolism</source>
+<volume>64</volume>, <fpage>1386</fpage>&#x2013;<lpage>1394</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">26362725</pub-id></mixed-citation>
+      </ref>
+      <ref id="b10">
+        <mixed-citation publication-type="journal"><name><surname>Lu</surname><given-names>W.</given-names></name>, <name><surname>Huang</surname><given-names>S. Y.</given-names></name>, <name><surname>Su</surname><given-names>L.</given-names></name>, <name><surname>Zhao</surname><given-names>B. X.</given-names></name> &amp; <name><surname>Miao</surname><given-names>J. Y.</given-names></name>
+<article-title>Long Noncoding RNA LOC100129973 Suppresses Apoptosis by Targeting miR-4707-5p and miR-4767 in Vascular Endothelial Cells</article-title>. <source>Sci Rep</source>
+<volume>6</volume>, <fpage>21620</fpage> (<year>2016</year>).<pub-id pub-id-type="pmid">26887505</pub-id></mixed-citation>
+      </ref>
+      <ref id="b11">
+        <mixed-citation publication-type="journal"><name><surname>Alvarez-Dominguez</surname><given-names>J. R.</given-names></name>
+<etal/>. <article-title>De Novo Reconstruction of Adipose Tissue Transcriptomes Reveals Long Non-coding RNA Regulators of Brown Adipocyte Development</article-title>. <source>Cell metabolism</source>
+<volume>21</volume>, <fpage>764</fpage>&#x2013;<lpage>776</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">25921091</pub-id></mixed-citation>
+      </ref>
+      <ref id="b12">
+        <mixed-citation publication-type="journal"><name><surname>Huang</surname><given-names>X.</given-names></name>
+<etal/>. <article-title>Characterization of human plasma-derived exosomal RNAs by deep sequencing</article-title>. <source>BMC genomics</source>
+<volume>14</volume>, <fpage>319</fpage> (<year>2013</year>).<pub-id pub-id-type="pmid">23663360</pub-id></mixed-citation>
+      </ref>
+      <ref id="b13">
+        <mixed-citation publication-type="journal"><name><surname>Ellis</surname><given-names>B. C.</given-names></name>, <name><surname>Graham</surname><given-names>L. D.</given-names></name> &amp; <name><surname>Molloy</surname><given-names>P. L.</given-names></name>
+<article-title>CRNDE, a long non-coding RNA responsive to insulin/IGF signaling, regulates genes involved in central metabolism</article-title>. <source>Biochimica et biophysica acta</source>
+<volume>1843</volume>, <fpage>372</fpage>&#x2013;<lpage>386</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">24184209</pub-id></mixed-citation>
+      </ref>
+      <ref id="b14">
+        <mixed-citation publication-type="journal"><name><surname>Yuan</surname><given-names>S. X.</given-names></name>
+<etal/>. <article-title>Long noncoding RNA associated with microvascular invasion in hepatocellular carcinoma promotes angiogenesis and serves as a predictor for hepatocellular carcinoma patients&#x2019; poor recurrence-free survival after hepatectomy</article-title>. <source>Hepatology</source>
+<volume>56</volume>, <fpage>2231</fpage>&#x2013;<lpage>2241</lpage> (<year>2012</year>).<pub-id pub-id-type="pmid">22706893</pub-id></mixed-citation>
+      </ref>
+      <ref id="b15">
+        <mixed-citation publication-type="journal"><name><surname>Zhou</surname><given-names>X.</given-names></name>, <name><surname>Yin</surname><given-names>C.</given-names></name>, <name><surname>Dang</surname><given-names>Y.</given-names></name>, <name><surname>Ye</surname><given-names>F.</given-names></name> &amp; <name><surname>Zhang</surname><given-names>G.</given-names></name>
+<article-title>Identification of the long non-coding RNA H19 in plasma as a novel biomarker for diagnosis of gastric cancer</article-title>. <source>Sci Rep</source>
+<volume>5</volume>, <fpage>11516</fpage> (<year>2015</year>).<pub-id pub-id-type="pmid">26096073</pub-id></mixed-citation>
+      </ref>
+      <ref id="b16">
+        <mixed-citation publication-type="journal"><name><surname>Song</surname><given-names>H.</given-names></name>
+<etal/>. <article-title>Long non-coding RNA expression profile in human gastric cancer and its clinical significances</article-title>. <source>J Transl Med</source>
+<volume>11</volume>, <fpage>225</fpage> (<year>2013</year>).<pub-id pub-id-type="pmid">24063685</pub-id></mixed-citation>
+      </ref>
+      <ref id="b17">
+        <mixed-citation publication-type="journal"><name><surname>de Kok</surname><given-names>J. B.</given-names></name>
+<etal/>. <article-title>DD3(PCA3), a very sensitive and specific marker to detect prostate tumors</article-title>. <source>Cancer Res</source>
+<volume>62</volume>, <fpage>2695</fpage>&#x2013;<lpage>2698</lpage> (<year>2002</year>).<pub-id pub-id-type="pmid">11980670</pub-id></mixed-citation>
+      </ref>
+      <ref id="b18">
+        <mixed-citation publication-type="journal"><name><surname>Kumarswamy</surname><given-names>R.</given-names></name>
+<etal/>. <article-title>Circulating long noncoding RNA, LIPCAR, predicts survival in patients with heart failure</article-title>. <source>Circ Res</source>
+<volume>114</volume>, <fpage>1569</fpage>&#x2013;<lpage>1575</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">24663402</pub-id></mixed-citation>
+      </ref>
+      <ref id="b19">
+        <mixed-citation publication-type="journal"><name><surname>Zhao</surname><given-names>X. Y.</given-names></name> &amp; <name><surname>Lin</surname><given-names>J. D.</given-names></name>
+<article-title>Long Noncoding RNAs: A New Regulatory Code in Metabolic Control</article-title>. <source>Trends in biochemical sciences</source>
+<volume>40</volume>, <fpage>586</fpage>&#x2013;<lpage>596</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">26410599</pub-id></mixed-citation>
+      </ref>
+      <ref id="b20">
+        <mixed-citation publication-type="journal"><name><surname>Divoux</surname><given-names>A.</given-names></name>
+<etal/>. <article-title>Identification of a novel lncRNA in gluteal adipose tissue and evidence for its positive effect on preadipocyte differentiation</article-title>. <source>Obesity (Silver Spring, Md.)</source>
+<volume>22</volume>, <fpage>1781</fpage>&#x2013;<lpage>1785</lpage> (<year>2014</year>).</mixed-citation>
+      </ref>
+      <ref id="b21">
+        <mixed-citation publication-type="journal"><name><surname>Pandey</surname><given-names>A.</given-names></name>, <name><surname>Chawla</surname><given-names>S.</given-names></name> &amp; <name><surname>Guchhait</surname><given-names>P.</given-names></name>
+<article-title>Type-2 diabetes: Current understanding and future perspectives</article-title>. <source>IUBMB life</source>
+<volume>67</volume>, <fpage>506</fpage>&#x2013;<lpage>513</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">26177573</pub-id></mixed-citation>
+      </ref>
+      <ref id="b22">
+        <mixed-citation publication-type="journal"><name><surname>Zhang</surname><given-names>J.</given-names></name>
+<etal/>. <article-title>Association between serum free fatty acid levels and nonalcoholic fatty liver disease: a cross-sectional study</article-title>. <source>Sci Rep</source>
+<volume>4</volume>, <fpage>5832</fpage> (<year>2014</year>).<pub-id pub-id-type="pmid">25060337</pub-id></mixed-citation>
+      </ref>
+      <ref id="b23">
+        <mixed-citation publication-type="journal"><name><surname>do Carmo</surname><given-names>J. M.</given-names></name>
+<etal/>. <article-title>Control of metabolic and cardiovascular function by the leptin-brain melanocortin pathway</article-title>. <source>IUBMB life</source>
+<volume>65</volume>, <fpage>692</fpage>&#x2013;<lpage>698</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">23847053</pub-id></mixed-citation>
+      </ref>
+      <ref id="b24">
+        <mixed-citation publication-type="journal"><name><surname>Xia</surname><given-names>X.</given-names></name>
+<etal/>. <article-title>Body mass index and risk of breast cancer: a nonlinear dose-response meta-analysis of prospective studies</article-title>. <source>Sci Rep</source>
+<volume>4</volume>, <fpage>7480</fpage> (<year>2014</year>).<pub-id pub-id-type="pmid">25504309</pub-id></mixed-citation>
+      </ref>
+      <ref id="b25">
+        <mixed-citation publication-type="journal"><name><surname>Spiegelman</surname><given-names>B. M.</given-names></name> &amp; <name><surname>Flier</surname><given-names>J. S.</given-names></name>
+<article-title>Obesity and the regulation of energy balance</article-title>. <source>Cell</source>
+<volume>104</volume>, <fpage>531</fpage>&#x2013;<lpage>543</lpage> (<year>2001</year>).<pub-id pub-id-type="pmid">11239410</pub-id></mixed-citation>
+      </ref>
+      <ref id="b26">
+        <mixed-citation publication-type="journal"><name><surname>Smith</surname><given-names>R. J.</given-names></name> &amp; <name><surname>Bryant</surname><given-names>R. G.</given-names></name>
+<article-title>Metal substitutions incarbonic anhydrase: a halide ion probe study</article-title>. <source>Biochemical and biophysical research communications</source>
+<volume>66</volume>, <fpage>1281</fpage>&#x2013;<lpage>1286</lpage> (<year>1975</year>).<pub-id pub-id-type="pmid">3</pub-id></mixed-citation>
+      </ref>
+      <ref id="b27">
+        <mixed-citation publication-type="journal"><name><surname>Qiang</surname><given-names>L.</given-names></name>
+<etal/>. <article-title>Brown remodeling of white adipose tissue by SirT1-dependent deacetylation of Ppargamma</article-title>. <source>Cell</source>
+<volume>150</volume>, <fpage>620</fpage>&#x2013;<lpage>632</lpage> (<year>2012</year>).<pub-id pub-id-type="pmid">22863012</pub-id></mixed-citation>
+      </ref>
+      <ref id="b28">
+        <mixed-citation publication-type="journal"><name><surname>Peschansky</surname><given-names>V. J.</given-names></name>
+<etal/>. <article-title>Changes in expression of the long non-coding RNA FMR4 associate with altered gene expression during differentiation of human neural precursor cells</article-title>. <source>Frontiers in genetics</source>
+<volume>6</volume>, <fpage>263</fpage> (<year>2015</year>).<pub-id pub-id-type="pmid">26322075</pub-id></mixed-citation>
+      </ref>
+      <ref id="b29">
+        <mixed-citation publication-type="journal"><name><surname>Foster</surname><given-names>G. D.</given-names></name>
+<etal/>. <article-title>Weight and metabolic outcomes after 2 years on a low-carbohydrate versus low-fat diet: a randomized trial</article-title>. <source>Annals of internal medicine</source>
+<volume>153</volume>, <fpage>147</fpage>&#x2013;<lpage>157</lpage> (<year>2010</year>).<pub-id pub-id-type="pmid">20679559</pub-id></mixed-citation>
+      </ref>
+      <ref id="b30">
+        <mixed-citation publication-type="journal"><name><surname>Paoli</surname><given-names>A.</given-names></name>, <name><surname>Rubini</surname><given-names>A.</given-names></name>, <name><surname>Volek</surname><given-names>J. S.</given-names></name> &amp; <name><surname>Grimaldi</surname><given-names>K. A.</given-names></name>
+<article-title>Beyond weight loss: a review of the therapeutic uses of very-low-carbohydrate (ketogenic) diets</article-title>. <source>European journal of clinical nutrition</source>
+<volume>67</volume>, <fpage>789</fpage>&#x2013;<lpage>796</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">23801097</pub-id></mixed-citation>
+      </ref>
+      <ref id="b31">
+        <mixed-citation publication-type="journal"><name><surname>Subramanian</surname><given-names>A.</given-names></name>
+<etal/>. <article-title>Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles</article-title>. <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<volume>102</volume>, <fpage>15545</fpage>&#x2013;<lpage>15550</lpage> (<year>2005</year>).<pub-id pub-id-type="pmid">16199517</pub-id></mixed-citation>
+      </ref>
+      <ref id="b32">
+        <mixed-citation publication-type="journal"><name><surname>Ulitsky</surname><given-names>I.</given-names></name> &amp; <name><surname>Bartel</surname><given-names>D. P.</given-names></name>
+<article-title>lincRNAs: genomics, evolution, and mechanisms</article-title>. <source>Cell</source>
+<volume>154</volume>, <fpage>26</fpage>&#x2013;<lpage>46</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">23827673</pub-id></mixed-citation>
+      </ref>
+      <ref id="b33">
+        <mixed-citation publication-type="journal"><name><surname>Vachharajani</surname><given-names>V.</given-names></name> &amp; <name><surname>Granger</surname><given-names>D. N.</given-names></name>
+<article-title>Adipose tissue: a motor for the inflammation associated with obesity</article-title>. <source>IUBMB life</source>
+<volume>61</volume>, <fpage>424</fpage>&#x2013;<lpage>430</lpage> (<year>2009</year>).<pub-id pub-id-type="pmid">19319966</pub-id></mixed-citation>
+      </ref>
+      <ref id="b34">
+        <mixed-citation publication-type="journal"><name><surname>Chang</surname><given-names>C. C.</given-names></name>
+<etal/>. <article-title>Interferon gamma-induced protein 10 is associated with insulin resistance and incident diabetes in patients with nonalcoholic fatty liver disease</article-title>. <source>Sci Rep</source>
+<volume>5</volume>, <fpage>10096</fpage> (<year>2015</year>).<pub-id pub-id-type="pmid">25961500</pub-id></mixed-citation>
+      </ref>
+      <ref id="b35">
+        <mixed-citation publication-type="journal"><name><surname>Cabili</surname><given-names>M. N.</given-names></name>
+<etal/>. <article-title>Integrative annotation of human large intergenic noncoding RNAs reveals global properties and specific subclasses</article-title>. <source>Genes &amp; development</source>
+<volume>25</volume>, <fpage>1915</fpage>&#x2013;<lpage>1927</lpage> (<year>2011</year>).<pub-id pub-id-type="pmid">21890647</pub-id></mixed-citation>
+      </ref>
+      <ref id="b36">
+        <mixed-citation publication-type="journal"><name><surname>Guttman</surname><given-names>M.</given-names></name>
+<etal/>. <article-title>Chromatin signature reveals over a thousand highly conserved large non-coding RNAs in mammals</article-title>. <source>Nature</source>
+<volume>458</volume>, <fpage>223</fpage>&#x2013;<lpage>227</lpage> (<year>2009</year>).<pub-id pub-id-type="pmid">19182780</pub-id></mixed-citation>
+      </ref>
+      <ref id="b37">
+        <mixed-citation publication-type="journal"><name><surname>Smet-Nocca</surname><given-names>C.</given-names></name>, <name><surname>Wieruszeski</surname><given-names>J. M.</given-names></name>, <name><surname>Chaar</surname><given-names>V.</given-names></name>, <name><surname>Leroy</surname><given-names>A.</given-names></name> &amp; <name><surname>Benecke</surname><given-names>A.</given-names></name>
+<article-title>The thymine-DNA glycosylase regulatory domain: residual structure and DNA binding</article-title>. <source>Biochemistry</source>
+<volume>47</volume>, <fpage>6519</fpage>&#x2013;<lpage>6530</lpage> (<year>2008</year>).<pub-id pub-id-type="pmid">18512959</pub-id></mixed-citation>
+      </ref>
+      <ref id="b38">
+        <mixed-citation publication-type="journal"><name><surname>Bellacosa</surname><given-names>A.</given-names></name> &amp; <name><surname>Drohat</surname><given-names>A. C.</given-names></name>
+<article-title>Role of base excision repair in maintaining the genetic and epigenetic integrity of CpG sites</article-title>. <source>DNA repair</source>
+<volume>32</volume>, <fpage>33</fpage>&#x2013;<lpage>42</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">26021671</pub-id></mixed-citation>
+      </ref>
+      <ref id="b39">
+        <mixed-citation publication-type="journal"><name><surname>Ma</surname><given-names>J. Y.</given-names></name>
+<etal/>. <article-title>Exogenous thymine DNA glycosylase regulates epigenetic modifications and meiotic cell cycle progression of mouse oocytes</article-title>. <source>Molecular human reproduction</source>
+<volume>21</volume>, <fpage>186</fpage>&#x2013;<lpage>194</lpage> (<year>2015</year>).<pub-id pub-id-type="pmid">25304979</pub-id></mixed-citation>
+      </ref>
+      <ref id="b40">
+        <mixed-citation publication-type="journal"><name><surname>Jia</surname><given-names>Y.</given-names></name>
+<etal/>. <article-title>Thymine DNA glycosylase promotes transactivation of beta-catenin/TCFs by cooperating with CBP</article-title>. <source>Journal of molecular cell biology</source>
+<volume>6</volume>, <fpage>231</fpage>&#x2013;<lpage>239</lpage> (<year>2014</year>).<pub-id pub-id-type="pmid">24748645</pub-id></mixed-citation>
+      </ref>
+      <ref id="b41">
+        <mixed-citation publication-type="journal"><name><surname>Darshi</surname><given-names>M.</given-names></name>
+<etal/>. <article-title>ChChd3, an inner mitochondrial membrane protein, is essential for maintaining crista integrity and mitochondrial function</article-title>. <source>The Journal of biological chemistry</source>
+<volume>286</volume>, <fpage>2918</fpage>&#x2013;<lpage>2932</lpage> (<year>2011</year>).<pub-id pub-id-type="pmid">21081504</pub-id></mixed-citation>
+      </ref>
+      <ref id="b42">
+        <mixed-citation publication-type="journal"><name><surname>Barbato</surname><given-names>D. L.</given-names></name> &amp; <name><surname>Aquilano</surname><given-names>K.</given-names></name>
+<article-title>Feast and Famine: Adipose Tissue Adaptations for Healthy Aging</article-title>. <source>Ageing research reviews</source> (<year>2016</year>).</mixed-citation>
+      </ref>
+      <ref id="b43">
+        <mixed-citation publication-type="journal"><name><surname>Fan</surname><given-names>B.</given-names></name>
+<etal/>. <article-title>Genome-Wide Association Study Identifies Loci for Body Composition and Structural Soundness Traits in Pigs</article-title>. <source>Plos One</source>
+<volume>6</volume> (<year>2011</year>).</mixed-citation>
+      </ref>
+      <ref id="b44">
+        <mixed-citation publication-type="journal"><name><surname>Wang</surname><given-names>Y.</given-names></name>, <name><surname>Mi</surname><given-names>J.</given-names></name>, <name><surname>Shan</surname><given-names>X. Y.</given-names></name>, <name><surname>Wang</surname><given-names>Q. J.</given-names></name> &amp; <name><surname>Ge</surname><given-names>K. Y.</given-names></name>
+<article-title>Is China facing an obesity epidemic and the consequences? The trends in obesity and chronic disease in China</article-title>. <source>International journal of obesity (2005)</source>
+<volume>31</volume>, <fpage>177</fpage>&#x2013;<lpage>188</lpage> (<year>2007</year>).<pub-id pub-id-type="pmid">16652128</pub-id></mixed-citation>
+      </ref>
+      <ref id="b45">
+        <mixed-citation publication-type="journal"><name><surname>Dennis</surname><given-names>G.</given-names><suffix>Jr.</suffix></name>
+<etal/>. <article-title>DAVID: Database for Annotation, Visualization, and Integrated Discovery</article-title>. <source>Genome biology</source>
+<volume>4</volume>, <fpage>P3</fpage> (<year>2003</year>).<pub-id pub-id-type="pmid">12734009</pub-id></mixed-citation>
+      </ref>
+      <ref id="b46">
+        <mixed-citation publication-type="journal"><name><surname>Han</surname><given-names>L.</given-names></name>
+<etal/>. <article-title>LncRNA pro fi le of glioblastoma reveals the potential role of lncRNAs in contributing to glioblastoma pathogenesis</article-title>. <source>International journal of oncology</source>
+<volume>40</volume>, <fpage>2004</fpage>&#x2013;<lpage>2012</lpage> (<year>2012</year>).<pub-id pub-id-type="pmid">22446686</pub-id></mixed-citation>
+      </ref>
+      <ref id="b47">
+        <mixed-citation publication-type="journal"><name><surname>Li</surname><given-names>J. P.</given-names></name>
+<etal/>. <article-title>Microarray expression profile of long noncoding RNAs in human osteosarcoma</article-title>. <source>Biochemical and biophysical research communications</source>
+<volume>433</volume>, <fpage>200</fpage>&#x2013;<lpage>206</lpage> (<year>2013</year>).<pub-id pub-id-type="pmid">23466354</pub-id></mixed-citation>
+      </ref>
+      <ref id="b48">
+        <mixed-citation publication-type="journal"><name><surname>Yu</surname><given-names>G.</given-names></name>
+<etal/>. <article-title>LncRNAs expression signatures of renal clear cell carcinoma revealed by microarray</article-title>. <source>Plos One</source>
+<volume>7</volume>, <fpage>e42377</fpage> (<year>2012</year>).<pub-id pub-id-type="pmid">22879955</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn>
+        <p><bold>Author Contributions</bold> J.S. and Y.R. designed and supervised experiments; Y.R. and M.W. performed all the experiments; N.Y., R.C., L.S. and T.M. contributed to the data analysis; J.S., Y.R. and H.C. organized, designed, and wrote the paper; H.C. and T.L. critically revised the manuscript. All authors reviewed the final manuscript.</p>
+      </fn>
+    </fn-group>
+  </back>
+  <floats-group>
+    <fig id="f1">
+      <label>Figure 1</label>
+      <caption>
+        <title>Flowchart of long noncoding RNAs (lncRNAs) screening and validation in obese and non-obese participants.</title>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep35421-f1"/>
+    </fig>
+    <fig id="f2">
+      <label>Figure 2</label>
+      <caption>
+        <title>Expression profiles of differentially expressed lncRNAs and mRNAs in obese and non-obese participants.</title>
+        <p>Differentially expressed lncRNAs and mRNAs between obese and non-obese participants were subjected to hierarchical clustering. The color scale on the top illustrates the relative expression level of lncRNAs across all samples. Red color indicates high relative expression and green color indicates low relative expression. (<bold>A</bold>) lncRNA; (<bold>B</bold>) mRNA.</p>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep35421-f2"/>
+    </fig>
+    <fig id="f3">
+      <label>Figure 3</label>
+      <caption>
+        <title>Expression level of circulating lncRNA-p5549, lncRNA-p21015 and lncRNA-p19461 in obese and non-obese participants.</title>
+        <p>Expression of lncRNA-p5549, lncRNA-p21015 and lncRNA-p19461 was detected by qPCR and normalized by U6 expression. (**P&#x2009;&lt;&#x2009;0.01)</p>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep35421-f3"/>
+    </fig>
+    <fig id="f4">
+      <label>Figure 4</label>
+      <caption>
+        <title>Different expression of three lncRNAs in 4 components sorted from peripheral blood and adipose tissue of obese patients.</title>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep35421-f4"/>
+    </fig>
+    <fig id="f5">
+      <label>Figure 5</label>
+      <caption>
+        <p>Baseline and diet-induced weight loss levels of lncRNA-p5549 (<bold>A</bold>) lncRNA-p21015 (<bold>B</bold>) and lncRNA-p19461 (<bold>C</bold>) in obese participants. **P &lt;0.01. Date are shown as mean (SD).</p>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep35421-f5"/>
+    </fig>
+    <fig id="f6">
+      <label>Figure 6</label>
+      <caption>
+        <title>Gene enrichment and pathway analysis of lncRNAs&#x2013;coexpressed mRNAs.</title>
+        <p>(<bold>A</bold>) The gene ontology enrichment analysis provided a controlled vocabulary to describe the differentially expressed lncRNAs&#x2013;coexpressed mRNAs. The ontology covered three domains: biological process, cellular component, and molecular function (P&#x2009;&lt;&#x2009;0.05 is recommended). (<bold>B</bold>) KEGG analysis suggested that lncRNAs&#x2013;coexpressed mRNAs were mainly targeted to the Toll-like receptor signaling pathway.</p>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep35421-f6"/>
+    </fig>
+    <fig id="f7">
+      <label>Figure 7</label>
+      <caption>
+        <title>Co-expression networks of obesity-associated genes and co-regulated lncRNAs.</title>
+        <p>145 mRNAs interacted with three lncRNAs. Genes colored in yellow are lncRNAs, genes colored in green are mRNA. Red line represents positive correlation. Blue line represents negative correlation. Node size represents the node degrees.</p>
+      </caption>
+      <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="srep35421-f7"/>
+    </fig>
+    <table-wrap position="float" id="t1">
+      <label>Table 1</label>
+      <caption>
+        <title>Clinical characteristics of included individuals in cross-sectional studies.</title>
+      </caption>
+      <table frame="hsides" rules="groups" border="1">
+        <colgroup>
+          <col align="left"/>
+          <col align="center"/>
+          <col align="center"/>
+          <col align="center"/>
+        </colgroup>
+        <thead valign="bottom">
+          <tr>
+            <th align="left" valign="top" charoff="50">&#xA0;</th>
+            <th align="center" valign="top" charoff="50">Nonobese (n&#x2009;=&#x2009;33)</th>
+            <th align="center" valign="top" charoff="50">Obese (n&#x2009;=&#x2009;33)</th>
+            <th align="center" valign="top" charoff="50">
+              <italic>p</italic>
+            </th>
+          </tr>
+        </thead>
+        <tbody valign="top">
+          <tr>
+            <td align="left" valign="top" charoff="50">Age (years)</td>
+            <td align="center" valign="top" charoff="50">41.00&#x2009;&#xB1;&#x2009;12.71</td>
+            <td align="center" valign="top" charoff="50">35.77&#x2009;&#xB1;&#x2009;11.69</td>
+            <td align="center" valign="top" charoff="50">0.206</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">Sex (male/female)</td>
+            <td align="center" valign="top" charoff="50">17/16</td>
+            <td align="center" valign="top" charoff="50">17/16</td>
+            <td align="center" valign="top" charoff="50">1.000</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">BMI (kg/m<sup>2</sup>)</td>
+            <td align="center" valign="top" charoff="50">21.75&#x2009;&#xB1;&#x2009;1.74</td>
+            <td align="center" valign="top" charoff="50">32.66&#x2009;&#xB1;&#x2009;4.45</td>
+            <td align="center" valign="top" charoff="50">0.000</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">Waist circumference (cm)</td>
+            <td align="center" valign="top" charoff="50">76.22&#x2009;&#xB1;&#x2009;6.07</td>
+            <td align="center" valign="top" charoff="50">112.58&#x2009;&#xB1;&#x2009;11.14</td>
+            <td align="center" valign="top" charoff="50">0.000</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">Waist-hip Ratio</td>
+            <td align="center" valign="top" charoff="50">0.82&#x2009;&#xB1;&#x2009;0.05</td>
+            <td align="center" valign="top" charoff="50">0.96&#x2009;&#xB1;&#x2009;0.05</td>
+            <td align="center" valign="top" charoff="50">0.000</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">Fasting glucose (mmo/L)</td>
+            <td align="center" valign="top" charoff="50">4.83&#x2009;&#xB1;&#x2009;0.57</td>
+            <td align="center" valign="top" charoff="50">5.08&#x2009;&#xB1;&#x2009;0.54</td>
+            <td align="center" valign="top" charoff="50">0.045</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">Fasting insulin (&#x3BC;U/mL)</td>
+            <td align="center" valign="top" charoff="50">6.47&#x2009;&#xB1;&#x2009;3.24</td>
+            <td align="center" valign="top" charoff="50">16.85&#x2009;&#xB1;&#x2009;9.35</td>
+            <td align="center" valign="top" charoff="50">0.002</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">Fasting C-peptide (ng/mL)</td>
+            <td align="center" valign="top" charoff="50">1.58&#x2009;&#xB1;&#x2009;0.40</td>
+            <td align="center" valign="top" charoff="50">3.52&#x2009;&#xB1;&#x2009;1.45</td>
+            <td align="center" valign="top" charoff="50">0.001</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">HOMA-&#x3B2; (%)</td>
+            <td align="center" valign="top" charoff="50">136.52&#x2009;&#xB1;&#x2009;153.12</td>
+            <td align="center" valign="top" charoff="50">197.32&#x2009;&#xB1;&#x2009;113.96</td>
+            <td align="center" valign="top" charoff="50">0.260</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">HOMA-IR</td>
+            <td align="center" valign="top" charoff="50">1.42&#x2009;&#xB1;&#x2009;0.84</td>
+            <td align="center" valign="top" charoff="50">4.73&#x2009;&#xB1;&#x2009;2.45</td>
+            <td align="center" valign="top" charoff="50">0.001</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">Total cholesterol (mg/dL)</td>
+            <td align="center" valign="top" charoff="50">4.70&#x2009;&#xB1;&#x2009;0.78</td>
+            <td align="center" valign="top" charoff="50">4.87&#x2009;&#xB1;&#x2009;1.85</td>
+            <td align="center" valign="top" charoff="50">0.767</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">Fasting triglycerides (mg/dL)</td>
+            <td align="center" valign="top" charoff="50">1.43&#x2009;&#xB1;&#x2009;1.00</td>
+            <td align="center" valign="top" charoff="50">2.32&#x2009;&#xB1;&#x2009;1.09</td>
+            <td align="center" valign="top" charoff="50">0.040</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">HDL cholesterol (mg/dL)</td>
+            <td align="center" valign="top" charoff="50">1.39&#x2009;&#xB1;&#x2009;0.38</td>
+            <td align="center" valign="top" charoff="50">1.11&#x2009;&#xB1;&#x2009;0.22</td>
+            <td align="center" valign="top" charoff="50">0.031</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">LDL cholesterol (mg/dL)</td>
+            <td align="center" valign="top" charoff="50">3.04&#x2009;&#xB1;&#x2009;0.74</td>
+            <td align="center" valign="top" charoff="50">3.58&#x2009;&#xB1;&#x2009;1.17</td>
+            <td align="center" valign="top" charoff="50">0.170</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">IL-6 (Pg/ml)</td>
+            <td align="center" valign="top" charoff="50">4.52&#x2009;&#xB1;&#x2009;3.86</td>
+            <td align="center" valign="top" charoff="50">5.49&#x2009;&#xB1;&#x2009;4.07</td>
+            <td align="center" valign="top" charoff="50">0.636</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">CRP (mg/dl)</td>
+            <td align="center" valign="top" charoff="50">4.28&#x2009;&#xB1;&#x2009;8.49</td>
+            <td align="center" valign="top" charoff="50">6.46&#x2009;&#xB1;&#x2009;8.67</td>
+            <td align="center" valign="top" charoff="50">0.557</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">Fatty liver (%)</td>
+            <td align="center" valign="top" charoff="50">16.4%</td>
+            <td align="center" valign="top" charoff="50">78.9%</td>
+            <td align="center" valign="top" charoff="50">0.006</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+    <table-wrap position="float" id="t2">
+      <label>Table 2</label>
+      <caption>
+        <title>Correlation between lncRNAs concentrations and studied variables in the cross-sectional study Data are R (<italic>p</italic>).</title>
+      </caption>
+      <table frame="hsides" rules="groups" border="1">
+        <colgroup>
+          <col align="left"/>
+          <col align="center"/>
+          <col align="center"/>
+          <col align="center"/>
+          <col align="center"/>
+          <col align="center"/>
+          <col align="center"/>
+          <col align="center"/>
+          <col align="center"/>
+          <col align="center"/>
+        </colgroup>
+        <thead valign="bottom">
+          <tr>
+            <th align="left" valign="top" charoff="50">&#xA0;</th>
+            <th align="center" valign="top" charoff="50">BMI</th>
+            <th align="center" valign="top" charoff="50">Waist circumference</th>
+            <th align="center" valign="top" charoff="50">Waist to hip ratio</th>
+            <th align="center" valign="top" charoff="50">Fasting glucose</th>
+            <th align="center" valign="top" charoff="50">Fasting Insulin</th>
+            <th align="center" valign="top" charoff="50">HOMA-IR</th>
+            <th align="center" valign="top" charoff="50">HOMA-&#x3B2;</th>
+            <th align="center" valign="top" charoff="50">IL-6</th>
+            <th align="center" valign="top" charoff="50">CRP</th>
+          </tr>
+        </thead>
+        <tbody valign="top">
+          <tr>
+            <td align="left" valign="top" charoff="50">lncRNA-p5549</td>
+            <td align="center" valign="top" charoff="50">&#x2212;0.528 (0.008)</td>
+            <td align="center" valign="top" charoff="50">&#x2212;0.467 (0.019)</td>
+            <td align="center" valign="top" charoff="50">&#x2212;0.439 (0.029)</td>
+            <td align="center" valign="top" charoff="50">&#x2212;0.214 (NS)</td>
+            <td align="center" valign="top" charoff="50">&#x2212;0.423 (0.041)</td>
+            <td align="center" valign="top" charoff="50">&#x2212;0.386 (NS)</td>
+            <td align="center" valign="top" charoff="50">&#x2212;0.269 (NS)</td>
+            <td align="center" valign="top" charoff="50">&#x2212;0.277 (NS)</td>
+            <td align="center" valign="top" charoff="50">&#x2212;0.045 (NS)</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">lncRNA-p21015</td>
+            <td align="center" valign="top" charoff="50">&#x2212;0.467 (0.012)</td>
+            <td align="center" valign="top" charoff="50">&#x2212;0.589 (0.002)</td>
+            <td align="center" valign="top" charoff="50">&#x2212;0.629 (0.000)</td>
+            <td align="center" valign="top" charoff="50">0.042 (NS)</td>
+            <td align="center" valign="top" charoff="50">&#x2212;0.321(NS)</td>
+            <td align="center" valign="top" charoff="50">&#x2212;0.297 (NS)</td>
+            <td align="center" valign="top" charoff="50">&#x2212;0.334 (NS)</td>
+            <td align="center" valign="top" charoff="50">0.150 (NS)</td>
+            <td align="center" valign="top" charoff="50">&#x2212;0.263 (NS)</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">lncRNA-p19461</td>
+            <td align="center" valign="top" charoff="50">&#x2212;0.536 (0.006)</td>
+            <td align="center" valign="top" charoff="50">&#x2212;0.438 (0.018)</td>
+            <td align="center" valign="top" charoff="50">&#x2212;0.321 (NS)</td>
+            <td align="center" valign="top" charoff="50">&#x2212;0.115 (NS)</td>
+            <td align="center" valign="top" charoff="50">&#x2212;0.428 (0.029)</td>
+            <td align="center" valign="top" charoff="50">&#x2212;0.422 (0.036)</td>
+            <td align="center" valign="top" charoff="50">&#x2212;0.241 (NS)</td>
+            <td align="center" valign="top" charoff="50">0.173 (NS)</td>
+            <td align="center" valign="top" charoff="50">0.073 (NS)</td>
+          </tr>
+        </tbody>
+      </table>
+      <table-wrap-foot>
+        <fn id="t1-fn1">
+          <p>NS, not significant.</p>
+        </fn>
+      </table-wrap-foot>
+    </table-wrap>
+    <table-wrap position="float" id="t3">
+      <label>Table 3</label>
+      <caption>
+        <title>Clinical characteristics of subjects included in longitudinal studies.</title>
+      </caption>
+      <table frame="hsides" rules="groups" border="1">
+        <colgroup>
+          <col align="left"/>
+          <col align="center"/>
+          <col align="center"/>
+          <col align="center"/>
+          <col align="center"/>
+        </colgroup>
+        <thead valign="bottom">
+          <tr>
+            <th align="left" valign="top" charoff="50">&#xA0;</th>
+            <th align="center" valign="top" charoff="50">Baseline</th>
+            <th align="center" valign="top" charoff="50">After weight lost</th>
+            <th align="center" valign="top" charoff="50">Variation, %</th>
+            <th align="center" valign="top" charoff="50">
+              <italic>P</italic>
+            </th>
+          </tr>
+        </thead>
+        <tbody valign="top">
+          <tr>
+            <td align="left" valign="top" charoff="50">BMI (kg/m<sup>2</sup>)</td>
+            <td align="center" valign="top" charoff="50">32.63&#x2009;&#xB1;&#x2009;4.28</td>
+            <td align="center" valign="top" charoff="50">29.86&#x2009;&#xB1;&#x2009;4.38</td>
+            <td align="center" valign="top" charoff="50">&#x2212;8.49</td>
+            <td align="center" valign="top" charoff="50">0.001</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">Waist circumference (cm)</td>
+            <td align="center" valign="top" charoff="50">103.67&#x2009;&#xB1;&#x2009;9.95</td>
+            <td align="center" valign="top" charoff="50">100.63&#x2009;&#xB1;&#x2009;9.65</td>
+            <td align="center" valign="top" charoff="50">&#x2212;2.93</td>
+            <td align="center" valign="top" charoff="50">0.000</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">Waist-to-hip ratio</td>
+            <td align="center" valign="top" charoff="50">0.93&#x2009;&#xB1;&#x2009;0.05</td>
+            <td align="center" valign="top" charoff="50">0.91&#x2009;&#xB1;&#x2009;0.05</td>
+            <td align="center" valign="top" charoff="50">&#x2212;2.15</td>
+            <td align="center" valign="top" charoff="50">0.013</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">Fasting glucose (mmol/L)</td>
+            <td align="center" valign="top" charoff="50">5.35&#x2009;&#xB1;&#x2009;0.63</td>
+            <td align="center" valign="top" charoff="50">5.14&#x2009;&#xB1;&#x2009;0.40</td>
+            <td align="center" valign="top" charoff="50">&#x2212;3.93</td>
+            <td align="center" valign="top" charoff="50">0.408</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">Fasting insulin (&#x3BC;U/mL)</td>
+            <td align="center" valign="top" charoff="50">15.48&#x2009;&#xB1;&#x2009;11.10</td>
+            <td align="center" valign="top" charoff="50">9.79&#x2009;&#xB1;&#x2009;6.16</td>
+            <td align="center" valign="top" charoff="50">&#x2212;36.76</td>
+            <td align="center" valign="top" charoff="50">0.015</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">HOMA-&#x3B2; (%)</td>
+            <td align="center" valign="top" charoff="50">168.59&#x2009;&#xB1;&#x2009;100.71</td>
+            <td align="center" valign="top" charoff="50">116.97&#x2009;&#xB1;&#x2009;49.34</td>
+            <td align="center" valign="top" charoff="50">&#x2212;30.62</td>
+            <td align="center" valign="top" charoff="50">0.066</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">HOMA-IR</td>
+            <td align="center" valign="top" charoff="50">3.82&#x2009;&#xB1;&#x2009;3.04</td>
+            <td align="center" valign="top" charoff="50">2.30&#x2009;&#xB1;&#x2009;1.68</td>
+            <td align="center" valign="top" charoff="50">&#x2212;39.79</td>
+            <td align="center" valign="top" charoff="50">0.019</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">lncRNA-p5549</td>
+            <td align="center" valign="top" charoff="50">0.15&#x2009;&#xB1;&#x2009;0.08</td>
+            <td align="center" valign="top" charoff="50">0.19&#x2009;&#xB1;&#x2009;0.10</td>
+            <td align="center" valign="top" charoff="50">26.67</td>
+            <td align="center" valign="top" charoff="50">0.355</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">lncRNA-p21015</td>
+            <td align="center" valign="top" charoff="50">0.49&#x2009;&#xB1;&#x2009;0.34</td>
+            <td align="center" valign="top" charoff="50">0.86&#x2009;&#xB1;&#x2009;0.69</td>
+            <td align="center" valign="top" charoff="50">75.51</td>
+            <td align="center" valign="top" charoff="50">0.169</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" charoff="50">lncRNA-p19461</td>
+            <td align="center" valign="top" charoff="50">0.40&#x2009;&#xB1;&#x2009;0.20</td>
+            <td align="center" valign="top" charoff="50">1.68&#x2009;&#xB1;&#x2009;0.63</td>
+            <td align="center" valign="top" charoff="50">320.00</td>
+            <td align="center" valign="top" charoff="50">0.001</td>
+          </tr>
+        </tbody>
+      </table>
+    </table-wrap>
+  </floats-group>
+</article>
+</pmc-articleset>

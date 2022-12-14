@@ -34,6 +34,7 @@ class Client():
 
 
     def runclient(self, num_processes):
+        print('ip, port, key = ', self.ip, self.port, self.authkey)
         manager = self.make_client_manager(self.ip, self.port, self.authkey)
         job_q = manager.get_job_q()
         result_q = manager.get_result_q()

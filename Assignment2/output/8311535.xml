@@ -1,0 +1,1974 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">World J Gastroenterol</journal-id>
+      <journal-id journal-id-type="iso-abbrev">World J Gastroenterol</journal-id>
+      <journal-id journal-id-type="publisher-id">WJG</journal-id>
+      <journal-title-group>
+        <journal-title>World Journal of Gastroenterology</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1007-9327</issn>
+      <issn pub-type="epub">2219-2840</issn>
+      <publisher>
+        <publisher-name>Baishideng Publishing Group Inc</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">34326622</article-id>
+      <article-id pub-id-type="pmc">8311535</article-id>
+      <article-id pub-id-type="other">jWJG.v27.i26.pg4236</article-id>
+      <article-id pub-id-type="doi">10.3748/wjg.v27.i26.4236</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Retrospective Study</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Feasibility of totally laparoscopic gastrectomy without prophylactic drains in gastric cancer patients</article-title>
+        <alt-title>Liu H<italic> et al.</italic> Experience of a high volume centre</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Liu</surname>
+            <given-names>Hao</given-names>
+          </name>
+          <aff>Department of Pancreatic and Gastric Surgery, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China</aff>
+          <aff>Department of Gastrointestinal Surgery, The Second Hospital, Jilin University, Changchun 130041, Jilin Province, China</aff>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jin</surname>
+            <given-names>Peng</given-names>
+          </name>
+          <aff>Department of Pancreatic and Gastric Surgery, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China</aff>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Quan</surname>
+            <given-names>Xu</given-names>
+          </name>
+          <aff>Department of Pancreatic and Gastric Surgery, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China</aff>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Xie</surname>
+            <given-names>Yi-Bin</given-names>
+          </name>
+          <aff>Department of Pancreatic and Gastric Surgery, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China</aff>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ma</surname>
+            <given-names>Fu-Hai</given-names>
+          </name>
+          <aff>Department of Pancreatic and Gastric Surgery, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China</aff>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ma</surname>
+            <given-names>Shuai</given-names>
+          </name>
+          <aff>Department of Pancreatic and Gastric Surgery, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China</aff>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Li</surname>
+            <given-names>Yang</given-names>
+          </name>
+          <aff>Department of Pancreatic and Gastric Surgery, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China</aff>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Kang</surname>
+            <given-names>Wen-Zhe</given-names>
+          </name>
+          <aff>Department of Pancreatic and Gastric Surgery, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China</aff>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tian</surname>
+            <given-names>Yan-Tao</given-names>
+          </name>
+          <aff>Department of Pancreatic and Gastric Surgery, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100021, China. <email>tianyantao@cicams.ac.cn</email></aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <fn>
+          <p>Author contributions: Liu H and Jin P contributed equally to this work; Xie YB and Xu Q designed the research; Liu H, Jin P, and Ma FH analyzed the data and wrote the main manuscript text; Li Y, Kang WZ, and Ma S collected the patients&#x2019; clinical data; Tian YT was involved in study conception and design, data interpretation, manuscript revision, and discussion.</p>
+          <p>Supported by <funding-source>National Natural Science Foundation of China</funding-source>, No. <award-id>81772642</award-id>; <funding-source>and Capital&#x2019;s Funds for Health Improvement and Research</funding-source>, No. <award-id>CFH 2018-2-4022</award-id>.</p>
+          <p>Corresponding author: Yan-Tao Tian, MD, Professor, Surgeon, Department of Pancreatic and Gastric Surgery, National Cancer Center/National Clinical Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, No. 17 Panjiayuan Nanli, Chaoyang District, Beijing 100021, China. <email>tianyantao@cicams.ac.cn</email></p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <day>14</day>
+        <month>7</month>
+        <year>2021</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>14</day>
+        <month>7</month>
+        <year>2021</year>
+      </pub-date>
+      <volume>27</volume>
+      <issue>26</issue>
+      <fpage>4236</fpage>
+      <lpage>4245</lpage>
+      <history>
+        <date date-type="received">
+          <day>10</day>
+          <month>11</month>
+          <year>2020</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>16</day>
+          <month>12</month>
+          <year>2020</year>
+        </date>
+        <date date-type="accepted">
+          <day>29</day>
+          <month>3</month>
+          <year>2021</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9;The Author(s) 2021. Published by Baishideng Publishing Group Inc. All rights reserved.</copyright-statement>
+        <copyright-year>2021</copyright-year>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref>
+          <license-p>This article is an open-access article which was selected by an in-house editor and fully peer-reviewed by external reviewers. It is distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <sec>
+          <title>BACKGROUND</title>
+          <p>Prophylactic drains have been used to remove intraperitoneal collections and detect complications early in open surgery. In the last decades, minimally invasive gastric cancer surgery has been performed worldwide. However, reports on routine prophylactic abdominal drainage after totally laparoscopic distal gastrectomy are few.</p>
+        </sec>
+        <sec>
+          <title>AIM</title>
+          <p>To evaluate the feasibility performing totally laparoscopic distal gastrectomy without prophylactic drains in selected patients.</p>
+        </sec>
+        <sec>
+          <title>METHODS</title>
+          <p>Data of patients with distal gastric cancer who underwent totally laparoscopic distal gastrectomy with and without prophylactic drainage at China National Cancer Center/Cancer Hospital from February 2018 to August 2019 were reviewed. The outcomes between patients with and without prophylactic drainage were compared.</p>
+        </sec>
+        <sec>
+          <title>RESULTS</title>
+          <p>A total of 457 patients who underwent surgery for gastric cancer were identified. Of these, 125 patients who underwent totally laparoscopic distal gastrectomy were included. After propensity score matching, data of 42 pairs were extracted. The incidence of concurrent illness was higher in the drain group (42.9% <italic>vs</italic> 31.0%, <italic>P</italic> = 0.258). The overall postoperative complication rates were 19.5% and 10.6% in the drain (<italic>n</italic> = 76) and no-drain groups (<italic>n</italic> = 49), respectively; there were no significant differences between the two groups (<italic>P</italic> &gt; 0.05). The difference between the two groups based on the need for percutaneous catheter drainage was also not significant (9.8% <italic>vs </italic>6.4%, <italic>P</italic> = 0.700). However, patients with a larger body mass index (&#x2265; 29 kg/m<sup>2</sup>) were prone to postoperative complications (<italic>P </italic>= 0.042). In addition, the number of days from surgery until the first flatus (4.33 &#xB1; 1.24 d <italic>vs </italic>3.57 &#xB1; 1.85 d, <italic>P </italic>= 0.029) was greater in the drain group.</p>
+        </sec>
+        <sec>
+          <title>CONCLUSION</title>
+          <p>Omitting prophylactic drainage may reduce surgery time and result in faster recovery. Routine prophylactic drains are not necessary in selected patients. A prophylactic drain may be useful in high-risk patients.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <kwd>Gastric cancer</kwd>
+        <kwd>Prophylactic drainage</kwd>
+        <kwd>Totally laparoscopic gastrectomy</kwd>
+        <kwd>Enhanced recovery after surgery</kwd>
+        <kwd>Minimally invasive surgery</kwd>
+        <kwd>Early gastric cancer</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <p>
+<bold>Core Tip: </bold>We reviewed the outcomes of 125 consecutive patients with distal gastric cancer who underwent totally laparoscopic distal gastrectomy with and without prophylactic drainage at China National Cancer Center/Cancer Hospital from February 2018 to August 2019. We found that performing totally laparoscopic gastrectomy without prophylactic drains in selected patients is possible. It significantly improved postoperative comfort and did not increase the risk of postoperative complications.</p>
+    <sec>
+      <title>INTRODUCTION</title>
+      <p>In the last decade, gastric cancer has been one of the most frequently occurring malignancies worldwide, with about one million new cases of gastric cancer in 2017. It is the fifth most common malignancy and the third highest malignant tumor, with an estimated 783000 deaths[<xref rid="B1" ref-type="bibr">1</xref>]. In China, there were approximately 677000 new gastric cancer cases in 2015. This accounted for half of the new gastric cancer cases worldwide[<xref rid="B2" ref-type="bibr">2</xref>].</p>
+      <p>In 1994, Kitano <italic>et al</italic>[<xref rid="B3" ref-type="bibr">3</xref>] reported the first case of laparoscopic assisted distal gastrectomy (LADG) with D2 lymphadenectomy[<xref rid="B3" ref-type="bibr">3</xref>]. A recent multi-center clinical study in South Korea also confirmed that the operation was safe and effective[<xref rid="B4" ref-type="bibr">4</xref>]. With the development of surgical instruments and technology, early minimally invasive gastric cancer surgery has been widely performed worldwide. Meanwhile, the interim results of a class 01 clinical trial led by China&#x2019;s Southern Hospital showed that the efficacy of laparoscopic surgery for advanced distal gastric cancer was comparable to that of open surgery[<xref rid="B5" ref-type="bibr">5</xref>]. </p>
+      <p>The development of laparoscopic gastric cancer surgery has led to its emergence as a treatment modality for distal gastric cancer. Compared with laparoscopic assisted surgery, totally laparoscopic distal gastrectomy (TLDG) is an intra-cavitary anastomosis, which does not require an auxiliary small incision. The reconstruction of TLDG anastomosis is safer, regardless of tumor location, with a lower incidence of incision problems than LADG. Moreover, it can be performed more effectively in obese patients[<xref rid="B6" ref-type="bibr">6</xref>,<xref rid="B7" ref-type="bibr">7</xref>].</p>
+      <p>Prophylactic drains have been used to remove intraperitoneal collections and detect complications early. However, numerous trials have failed to demonstrate a reduction in postoperative complications by routine drainage in gastrointestinal surgery[<xref rid="B8" ref-type="bibr">8</xref>]. Several studies performed after open gastrectomy or LADG concluded that the prophylactic use of drains did not significantly improve postoperative outcomes. However, there are few studies on routine prophylactic drainage after TLDG.</p>
+      <p>In the current retrospective study, we compared the outcomes of patients who underwent TLDG with and without drainage to clarify the value of routine prophylactic drainage in uncomplicated TLDG procedures for distal gastric cancer.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>MATERIALS AND METHODS</title>
+      <sec>
+        <title>Patients</title>
+        <p>We reviewed the outcomes of 457 consecutive patients with distal gastric cancer who underwent TLDG with and without prophylactic drainage at China National Cancer Center/Cancer Hospital from February 2018 to August 2019. Among them, 145 patients who underwent proximal gastrectomy or total gastrectomy, 159 patients who underwent laparoscopic assisted surgery, 23 who underwent open gastrectomy (including four cases converted from laparoscopic surgery), and five who underwent simultaneous surgery for other diseases such as choledocholithiasis (<italic>n </italic>= 1), ovarian tumor (<italic>n</italic> = 1), and pancreatic tail (<italic>n</italic> = 3) were excluded. Finally, a total of 125 patients were included in this study. They were assigned to a drain or no-drain group according to their operation records. The drain group comprised 76 patients who underwent TLDG with routine prophylactic drainage, and the no-drain group comprised 49 patients who underwent TLDG without routine prophylactic drainage (Figure <xref ref-type="fig" rid="F1">1</xref>).</p>
+        <fig id="F1" position="float">
+          <label>Figure 1</label>
+          <caption>
+            <p>
+Flow chart of the patients assessed in this study.
+</p>
+          </caption>
+          <graphic xlink:href="WJG-27-4236-g001"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Totally laparoscopic distal gastrectomy</title>
+        <p>The extent of gastrectomy and lymph node dissection were determined based on the Japanese gastric cancer treatment guidelines[<xref rid="B9" ref-type="bibr">9</xref>]. The surgeon was on the left side of the patient to finish laparoscopic ligation and division, and the first assistant was positioned on the opposite side. A cameraman stood between the patient&#x2019; s legs. A five-port system (<italic>i.e.</italic>, two 5 mm and three 12 mm ports) was used for each totally laparoscopic distal gastrectomy. Ten-millimeter flexible laparoscopes were used, with CO<sub>2</sub> pressure maintained at 13-15 mmHg. </p>
+        <p>The operator was on the left side of the patient to perform Billroth-I reconstruction using a modified delta-shaped anastomosis[<xref rid="B10" ref-type="bibr">10</xref>] or overlap anastomosis[<xref rid="B8" ref-type="bibr">8</xref>]. Billroth-II or Roux-en-Y reconstruction was performed on the right side of the patients. </p>
+      </sec>
+      <sec>
+        <title>Postoperative management</title>
+        <p>Patients in both groups were administered prophylactic antibiotics 30 min before surgery. The decision of whether to use a prophylactic drain was made by the surgeon. Oral intake of water was initiated on the first day after surgery. A soft diet was initiated after the patient could tolerate liquid meals, and postoperative upper gastrointestinal contrast confirmed the absence of anastomotic leakage.</p>
+      </sec>
+      <sec>
+        <title>Outcome assessment</title>
+        <p>The clinical, operative, and pathological variables were compared between the two groups based on the information obtained from our prospectively collected surgical database. Early postoperative complications (occurring on postoperative days 0-30) were graded using the Clavien&#x2013;Dindo classification. Early postoperative complications requiring medical, radiological, or surgical interventions (grade 2 or higher) were regarded as events. The risk for the occurrence of postoperative complications was also assessed.</p>
+      </sec>
+      <sec>
+        <title>Statistical analyses</title>
+        <p>All values are expressed as the mean &#xB1; SD. The <italic>&#x3C7;<sup>2</sup></italic> test and Student&#x2019;s<italic> t </italic>test were used to compare the categorical and continuous variables, respectively. For categorical data, the chi-squared test or Fisher&#x2019;s exact test was performed. A <italic>P </italic>value of &lt; 0.05 was considered significant. Statistical analyses were performed using Statistic Package for Social Science. 20.</p>
+      </sec>
+      <sec>
+        <title>Propensity score matching</title>
+        <p>Multiple factor logistic regression models were used to calculate the propensity score for each patient to balance the following covariates: Age, sex, body mass index (BMI), abdominal operation history, smoking history, drinking history, concurrent illness, American Society of Anesthesiologists classification, operation time, estimated blood loss, primary tumor stage, regional lymph node stage, tumor size, and number of retrieved lymph nodes. We imposed a caliper width of 0.1 of the standard deviation of the logistic propensity score.</p>
+      </sec>
+    </sec>
+    <sec>
+      <title>RESULTS</title>
+      <sec>
+        <title>Patient characteristics</title>
+        <p>Table <xref rid="T1" ref-type="table">1</xref> shows the clinical characteristics of patients undergoing TLDG with or without a prophylactic drain. No significant differences were observed in patient sex, age, BMI, American Society of Anesthesiologists classification, abdominal operation history, smoking history, drinking history, concurrent illness primary tumor stage, or regional lymph node stage between the two groups after propensity score matching (PSM).</p>
+        <table-wrap id="T1" position="float">
+          <label>Table 1</label>
+          <caption>
+            <p>Characteristics of patients who underwent totally laparoscopic distal gastrectomy with or without prophylactic drain</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <td rowspan="1" colspan="1">
+<hr/>
+</td>
+                <td colspan="3" rowspan="1">
+<bold>ALL patients</bold>
+<hr/>
+</td>
+                <td colspan="3" rowspan="1">
+<bold>Propensity-matched patients</bold>
+<hr/>
+</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">
+<bold>Characteristic</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold> Drain (<italic>n</italic> = 76)</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold>No drain (<italic>n</italic> = 49)</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold><italic>P </italic></bold>
+<bold>value</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold> Drain (<italic>n</italic> = 42)</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold>No drain (<italic>n</italic> = 42)</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold><italic>P </italic></bold>
+<bold>value</bold>
+<hr/>
+</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td rowspan="1" colspan="1">Sex (M/F)</td>
+                <td rowspan="1" colspan="1">54/22</td>
+                <td rowspan="1" colspan="1">33/16</td>
+                <td rowspan="1" colspan="1">0.660</td>
+                <td rowspan="1" colspan="1">31/11</td>
+                <td rowspan="1" colspan="1">29/13</td>
+                <td rowspan="1" colspan="1">0.629</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Age</td>
+                <td rowspan="1" colspan="1">57.58 &#xB1; 9.90</td>
+                <td rowspan="1" colspan="1">54.14 &#xB1; 12.63</td>
+                <td rowspan="1" colspan="1">0.092</td>
+                <td rowspan="1" colspan="1">57.4 &#xB1; 9.9</td>
+                <td rowspan="1" colspan="1">58.1 &#xB1; 10.8</td>
+                <td rowspan="1" colspan="1">0.739</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">BMI (kg/m<sup>2</sup>)</td>
+                <td rowspan="1" colspan="1">24.71 &#xB1; 3.76</td>
+                <td rowspan="1" colspan="1">24.64 &#xB1; 3.72</td>
+                <td rowspan="1" colspan="1">0.915</td>
+                <td rowspan="1" colspan="1">24.3 &#xB1; 3.5</td>
+                <td rowspan="1" colspan="1">24.4 &#xB1; 2.7</td>
+                <td rowspan="1" colspan="1">0.879</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">ASA (1/2/3), <italic>n </italic>(%)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">0.562</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">0.565</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">1</td>
+                <td rowspan="1" colspan="1">1 (1.3)</td>
+                <td rowspan="1" colspan="1">0 (0.0)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">1 (2.4)</td>
+                <td rowspan="1" colspan="1">0 (0.0)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">2</td>
+                <td rowspan="1" colspan="1">70 (92.1)</td>
+                <td rowspan="1" colspan="1">44 (89.8)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">38 (90.5)</td>
+                <td rowspan="1" colspan="1">38 (90.5)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">3</td>
+                <td rowspan="1" colspan="1">5 (6.6)</td>
+                <td rowspan="1" colspan="1">5 (10.2)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">3 (7.1)</td>
+                <td rowspan="1" colspan="1">4 (9.5)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">pT stage, <italic>n </italic>(%)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">0.605</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">0.805</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">T1</td>
+                <td rowspan="1" colspan="1">39 (52.0)</td>
+                <td rowspan="1" colspan="1">24 (49.0)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">20 (47.6)</td>
+                <td rowspan="1" colspan="1">20 (47.6)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">T2</td>
+                <td rowspan="1" colspan="1">10 (13.3)</td>
+                <td rowspan="1" colspan="1">11 (22.4)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">6 (14.3)</td>
+                <td rowspan="1" colspan="1">10 (23.8)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">T3</td>
+                <td rowspan="1" colspan="1">9 (12)</td>
+                <td rowspan="1" colspan="1">5 (10.2)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">6 (14.3)</td>
+                <td rowspan="1" colspan="1">4 (9.5)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">T4a</td>
+                <td rowspan="1" colspan="1">17 (22.7)</td>
+                <td rowspan="1" colspan="1">9 (18.4)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">10 (23.8)</td>
+                <td rowspan="1" colspan="1">8 (19)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">pN stage, <italic>n </italic>(%)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">0.888</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">0.760</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">N0</td>
+                <td rowspan="1" colspan="1">34 (44.7)</td>
+                <td rowspan="1" colspan="1">20 (40.8)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">16 (38.1)</td>
+                <td rowspan="1" colspan="1">18 (42.9)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">N1</td>
+                <td rowspan="1" colspan="1">16 (21.1)</td>
+                <td rowspan="1" colspan="1">12 (24.5)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">9 (21.4)</td>
+                <td rowspan="1" colspan="1">11 (26.2)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">N2</td>
+                <td rowspan="1" colspan="1">14 (18.4)</td>
+                <td rowspan="1" colspan="1">7 (14.3)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">9 (21.4)</td>
+                <td rowspan="1" colspan="1">5 (11.9)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">N3</td>
+                <td rowspan="1" colspan="1">12 (15.8)</td>
+                <td rowspan="1" colspan="1">10 (20.4)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">8 (19)</td>
+                <td rowspan="1" colspan="1">8 (19)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Previous abdominal operation, <italic>n </italic>(%)</td>
+                <td rowspan="1" colspan="1">13 (17.1)</td>
+                <td rowspan="1" colspan="1">13 (26.5)</td>
+                <td rowspan="1" colspan="1">0.205</td>
+                <td rowspan="1" colspan="1">6 (14.3)</td>
+                <td rowspan="1" colspan="1">10 (23.8)</td>
+                <td rowspan="1" colspan="1">0.266</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Neoadjuvant chemotherapy, <italic>n </italic>(%)</td>
+                <td rowspan="1" colspan="1">5 (6.6)</td>
+                <td rowspan="1" colspan="1">2 (4.1)</td>
+                <td rowspan="1" colspan="1">0.704</td>
+                <td rowspan="1" colspan="1">4 (9.5)</td>
+                <td rowspan="1" colspan="1">2 (4.8)</td>
+                <td rowspan="1" colspan="1">0.676</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Concurrent illness, <italic>n </italic>(%)</td>
+                <td rowspan="1" colspan="1">34 (44.7)</td>
+                <td rowspan="1" colspan="1">14 (28.6)</td>
+                <td rowspan="1" colspan="1">0.070</td>
+                <td rowspan="1" colspan="1">18 (42.9)</td>
+                <td rowspan="1" colspan="1">13 (31.0)</td>
+                <td rowspan="1" colspan="1">0.258</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn>
+              <p>ASA: American Society of Anesthesiologists; pT: Primary tumor; pN: Regional lymph node; BMI: Body mass index.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Operative findings</title>
+        <p>The operative outcomes are summarized in Table <xref rid="T2" ref-type="table">2</xref>. The drain group had a longer operating time than the no-drain group (198.4 &#xB1; 41.0 min <italic>vs</italic> 164.0 &#xB1; 37.0 min, <italic>P </italic>&lt; 0.001). Mean estimated blood loss and intraoperative blood transfusion were similar between the two groups. There were no significant differences between the two groups in terms of the number of retrieved lymph nodes and tumor size (<italic>P</italic> &gt; 0.05). After PSM, no significant differences were noted in operating time between the drain and no-drain groups. </p>
+        <table-wrap id="T2" position="float">
+          <label>Table 2</label>
+          <caption>
+            <p>Operative findings</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <td rowspan="2" colspan="1">
+<bold>Variable</bold>
+</td>
+                <td colspan="3" rowspan="1">
+<bold>All patients</bold>
+<hr/>
+</td>
+                <td colspan="3" rowspan="1">
+<bold>Propensity-matched patients</bold>
+<hr/>
+</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">
+<bold>Drain (<italic>n</italic> = 76)</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold>No drain (<italic>n </italic>= 49)</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold><italic>P</italic></bold>
+<bold> value</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold>Drain (<italic>n</italic> = 42)</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold>No drain (<italic>n</italic> = 42)</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold><italic>P </italic></bold>
+<bold>value</bold>
+<hr/>
+</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td rowspan="1" colspan="1">Operation time (min)</td>
+                <td rowspan="1" colspan="1">198.4 &#xB1; 41.0</td>
+                <td rowspan="1" colspan="1">164.0 &#xB1; 37.0</td>
+                <td rowspan="1" colspan="1">&lt; 0.001</td>
+                <td rowspan="1" colspan="1">180.2 &#xB1; 33.4</td>
+                <td rowspan="1" colspan="1">168.0 &#xB1; 36.7</td>
+                <td rowspan="1" colspan="1">0.113</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Estimated blood loss (mL)</td>
+                <td rowspan="1" colspan="1">85.3 &#xB1; 80.7</td>
+                <td rowspan="1" colspan="1">70.82 &#xB1; 51.5</td>
+                <td rowspan="1" colspan="1">0.267</td>
+                <td rowspan="1" colspan="1">72.9 &#xB1; 45.8</td>
+                <td rowspan="1" colspan="1">73.8 &#xB1; 54.4</td>
+                <td rowspan="1" colspan="1">0.931</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Intraoperative blood transfusion, <italic>n </italic>(%)</td>
+                <td rowspan="1" colspan="1">2 (2.6)</td>
+                <td rowspan="1" colspan="1">2 (4.1)</td>
+                <td rowspan="1" colspan="1">0.645</td>
+                <td rowspan="1" colspan="1">1 (2.4)</td>
+                <td rowspan="1" colspan="1">2 (4.8)</td>
+                <td rowspan="1" colspan="1">1.000</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Tumor size (cm)</td>
+                <td rowspan="1" colspan="1">3.5 &#xB1; 1.6</td>
+                <td rowspan="1" colspan="1">3.6 &#xB1; 1.5</td>
+                <td rowspan="1" colspan="1">0.664</td>
+                <td rowspan="1" colspan="1">3.6 &#xB1; 1.7</td>
+                <td rowspan="1" colspan="1">3.5 &#xB1; 1.4</td>
+                <td rowspan="1" colspan="1">0.839</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">No. of retrieved lymph nodes</td>
+                <td rowspan="1" colspan="1">36.7 &#xB1; 13.7</td>
+                <td rowspan="1" colspan="1">39.1 &#xB1; 14.2</td>
+                <td rowspan="1" colspan="1">0.346</td>
+                <td rowspan="1" colspan="1">40.0 &#xB1; 11.2</td>
+                <td rowspan="1" colspan="1">40.0 &#xB1; 15.1</td>
+                <td rowspan="1" colspan="1">0.923</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Recovery</title>
+        <p>The recovery outcomes are listed in Table <xref rid="T3" ref-type="table">3</xref>. The number of days from surgery to the initiation of soft diet (5.34 &#xB1; 2.27 d <italic>vs </italic>4.17 &#xB1; 2.13 d, <italic>P </italic>= 0.036) and to first flatus (4.29 &#xB1; 1.45 d <italic>vs</italic> 3.55 &#xB1; 1.83 d, <italic>P</italic> = 0.041) were greater in the drain group. There were no significant differences in the time to ambulation or length of postoperative hospital stay (8.15 &#xB1; 2.9 d <italic>vs</italic> 6.77 &#xB1; 2.3 d, <italic>P</italic> = 0.219) between the two groups. Postoperative C-reactive protein levels (8.24 &#xB1; 4.47 mg/L <italic>vs</italic> 8.67 &#xB1; 5.97 mg/L, P &gt; 0.05) and postoperative maximum body temperature (Tmax) (37.6 &#xB1; 0.6 &#x2103; <italic>vs</italic> 37.5 &#xB1; 0.4 &#x2103;, <italic>P</italic> &gt; 0.05) were similar between the two groups. After PSM, only the number of days from surgery to first flatus (4.33 &#xB1; 1.24 d <italic>vs </italic>3.57 &#xB1; 1.85 d, <italic>P</italic> = 0.029) was greater in the drain group.</p>
+        <table-wrap id="T3" position="float">
+          <label>Table 3</label>
+          <caption>
+            <p>Recovery</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <td rowspan="2" colspan="1">
+<bold>Variable</bold>
+</td>
+                <td colspan="3" rowspan="1">
+<bold>All patients</bold>
+<hr/>
+</td>
+                <td colspan="3" rowspan="1">
+<bold>Propensity-matched patients</bold>
+<hr/>
+</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">
+<bold>Drain (<italic>n</italic> = 76)</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold>No drain (<italic>n </italic>= 49)</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold><italic>P </italic></bold>
+<bold>value</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold>Drain (<italic>n</italic> = 42)</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold>No drain (<italic>n</italic> = 42)</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold><italic>P</italic></bold>
+<bold> value</bold>
+<hr/>
+</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td rowspan="1" colspan="1">Time to ambulation, POD</td>
+                <td rowspan="1" colspan="1">2.51 &#xB1; 1.34</td>
+                <td rowspan="1" colspan="1">2.98 &#xB1; 1.39</td>
+                <td rowspan="1" colspan="1">0.064</td>
+                <td rowspan="1" colspan="1">2.90 &#xB1; 1.54</td>
+                <td rowspan="1" colspan="1">3.07 &#xB1; 1.44</td>
+                <td rowspan="1" colspan="1">0.610</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Time to first flatus, POD</td>
+                <td rowspan="1" colspan="1">3.97 &#xB1; 1.24</td>
+                <td rowspan="1" colspan="1">3.55 &#xB1; 1.79</td>
+                <td rowspan="1" colspan="1">0.122</td>
+                <td rowspan="1" colspan="1">4.33 &#xB1; 1.24</td>
+                <td rowspan="1" colspan="1">3.57 &#xB1; 1.85</td>
+                <td rowspan="1" colspan="1">0.029</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Time to first eating of soft diet, POD</td>
+                <td rowspan="1" colspan="1">4.70 &#xB1; 2.17</td>
+                <td rowspan="1" colspan="1">4.14 &#xB1; 2.09</td>
+                <td rowspan="1" colspan="1">0.159</td>
+                <td rowspan="1" colspan="1">5.02 &#xB1; 1.88</td>
+                <td rowspan="1" colspan="1">4.17 &#xB1; 2.20</td>
+                <td rowspan="1" colspan="1">0.058</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Postoperative hospital stay</td>
+                <td rowspan="1" colspan="1">7.88 &#xB1; 3.96</td>
+                <td rowspan="1" colspan="1">6.73 &#xB1; 5.13</td>
+                <td rowspan="1" colspan="1">0.164</td>
+                <td rowspan="1" colspan="1">7.93 &#xB1; 4.98</td>
+                <td rowspan="1" colspan="1">6.81 &#xB1; 5.50</td>
+                <td rowspan="1" colspan="1">0.331</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">CRP</td>
+                <td rowspan="1" colspan="1">7.54 &#xB1; 4.38</td>
+                <td rowspan="1" colspan="1">8.53 &#xB1; 5.91</td>
+                <td rowspan="1" colspan="1">0.286</td>
+                <td rowspan="1" colspan="1">7.66 &#xB1; 3.89</td>
+                <td rowspan="1" colspan="1">8.71 &#xB1; 5.95</td>
+                <td rowspan="1" colspan="1">0.339</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Tmax</td>
+                <td rowspan="1" colspan="1">37.6 &#xB1; 0.5</td>
+                <td rowspan="1" colspan="1">37.5 &#xB1; 0.4</td>
+                <td rowspan="1" colspan="1">0.239</td>
+                <td rowspan="1" colspan="1">37.60 &#xB1; 0.60</td>
+                <td rowspan="1" colspan="1">37.48 &#xB1; 0.40</td>
+                <td rowspan="1" colspan="1">0.300</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn>
+              <p>POD: Postoperative days.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Short-time outcomes</title>
+        <p>Postoperative patient complications are listed in Table <xref rid="T4" ref-type="table">4</xref>. No mortality was recorded in either group. The overall postoperative complication rates were 15.8% and 10.2% in the drain and no-drain groups, respectively (<italic>P</italic> &gt; 0.05). No anastomotic bleeding, anastomotic leakage, lymph leakage, ileus, or pancreatic fistula occurred in either group. Clavien-Dindo grade 3 complications included duodenal stump leakage (<italic>n </italic>= 2), anastomotic leakage (<italic>n</italic> = 2), intra-abdominal abscess (<italic>n</italic> = 2), and intra-abdominal bleeding (<italic>n</italic> = 1) in the drainage group. The need for percutaneous catheter drainage (PCD) was not significantly different between the groups (9.8% <italic>vs</italic> 6.4%, <italic>P</italic> = 0.700). After PSM, no significant differences were noted in the complications between the drain and no-drain groups.</p>
+        <table-wrap id="T4" position="float">
+          <label>Table 4</label>
+          <caption>
+            <p>Postoperative complications</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <td rowspan="1" colspan="1"/>
+                <td colspan="3" rowspan="1">
+<bold>All patients</bold>
+<hr/>
+</td>
+                <td colspan="3" rowspan="1">
+<bold>Propensity-matched patients</bold>
+<hr/>
+</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">
+<bold>Complication, <italic>n</italic></bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold>Drain (<italic>n </italic>= 76), <italic>n</italic> (%)</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold>No drain (<italic>n</italic> = 49), <italic>n</italic> (%)</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold><italic>P</italic></bold>
+<bold> value</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold>Drain (<italic>n</italic> = 42), <italic>n</italic> (%)</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold>No drain (<italic>n </italic>= 42), <italic>n</italic> (%)</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold><italic>P</italic></bold>
+<bold> value</bold>
+<hr/>
+</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td rowspan="1" colspan="1">Total</td>
+                <td rowspan="1" colspan="1">12(15.8)</td>
+                <td rowspan="1" colspan="1">5 (10.2)</td>
+                <td rowspan="1" colspan="1">0.374</td>
+                <td rowspan="1" colspan="1">8 (19.0)</td>
+                <td rowspan="1" colspan="1">4 (9.5)</td>
+                <td rowspan="1" colspan="1">0.212</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Clavien&#x2013;Dindo grade II</td>
+                <td rowspan="1" colspan="1">4 (5.2)</td>
+                <td rowspan="1" colspan="1">2 (4.0)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">3 (7.2)</td>
+                <td rowspan="1" colspan="1">1 (2.4)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Incision</td>
+                <td rowspan="1" colspan="1">1 (1.3)</td>
+                <td rowspan="1" colspan="1">1 (2.0)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">0 (0.0)</td>
+                <td rowspan="1" colspan="1">0 (0.0)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">System complications</td>
+                <td rowspan="1" colspan="1">1 (1.3)</td>
+                <td rowspan="1" colspan="1">1 (2.0)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">1 (2.4)</td>
+                <td rowspan="1" colspan="1">1 (2.4)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Abdominal effusion</td>
+                <td rowspan="1" colspan="1">2 (2.6)</td>
+                <td rowspan="1" colspan="1">0 (0.0)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">2 (4.8)</td>
+                <td rowspan="1" colspan="1">0 (0.0)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Clavien&#x2013;Dindo grade III</td>
+                <td rowspan="1" colspan="1">8 (10.6)</td>
+                <td rowspan="1" colspan="1">3 (6.0)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">5 (12)</td>
+                <td rowspan="1" colspan="1">3 (7.2)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Duodenal stump leakage</td>
+                <td rowspan="1" colspan="1">2 (2.6)</td>
+                <td rowspan="1" colspan="1">0 (0.0)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">2 (2.4)</td>
+                <td rowspan="1" colspan="1">0 (0.0)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Anastomotic Leakage</td>
+                <td rowspan="1" colspan="1">2 (2.6)</td>
+                <td rowspan="1" colspan="1">0 (0.0)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">0 (0.0)</td>
+                <td rowspan="1" colspan="1">0 (0.0)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Intra-abdominal bleeding</td>
+                <td rowspan="1" colspan="1">1 (1.3)</td>
+                <td rowspan="1" colspan="1">0 (0.0)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">1 (2.4)</td>
+                <td rowspan="1" colspan="1">0 (0.0)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Intra-abdominal abscess</td>
+                <td rowspan="1" colspan="1">3 (3.9)</td>
+                <td rowspan="1" colspan="1">2 (4.0)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">2 (2.4)</td>
+                <td rowspan="1" colspan="1">2 (2.4)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Pleural effusion</td>
+                <td rowspan="1" colspan="1">0 (0.0)</td>
+                <td rowspan="1" colspan="1">1 (2.0)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">0 (0.0)</td>
+                <td rowspan="1" colspan="1">1 (2.4)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Mortality</td>
+                <td rowspan="1" colspan="1">0 (0.0)</td>
+                <td rowspan="1" colspan="1">0 (0.0)</td>
+                <td rowspan="1" colspan="1">1</td>
+                <td rowspan="1" colspan="1">0 (0.0)</td>
+                <td rowspan="1" colspan="1">0 (0.0)</td>
+                <td rowspan="1" colspan="1">1</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn>
+              <p>PCD: Percutaneous catheter drainage.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Risk assessment for the occurrence of postoperative complication</title>
+        <p>Postoperative complication risk factors are listed in Table <xref rid="T5" ref-type="table">5</xref>. Between the two groups, no significant differences were observed in most variables. However, the patients with a larger BMI had a higher possibility of postoperative complications (27.44 &#xB1; 3.92 <italic>vs </italic>24.25 &#xB1; 3.53, <italic>P </italic>= 0.01). In addition, we identified that patients with a BMI &#x2265; 29 kg/m<sup>2 </sup>were prone to postoperative complications (<italic>P</italic> = 0.042). A prophylactic drain may be useful in patients with a higher risk, larger BMI, or more concurrent illness. Prophylactic drains was not an independent risk factor for postoperative complications.</p>
+        <table-wrap id="T5" position="float">
+          <label>Table 5</label>
+          <caption>
+            <p>Risk assessment for the occurrence of postoperative complication</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <td rowspan="1" colspan="1">
+<bold>Variable</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold>Postoperative complications (+) (<italic>n</italic> = 17)</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold>Postoperative complications (-) (<italic>n</italic> = 108)</bold>
+<hr/>
+</td>
+                <td rowspan="1" colspan="1">
+<bold><italic>P </italic></bold>
+<bold>value</bold>
+<hr/>
+</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td rowspan="1" colspan="1">Sex</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">0.584</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Male</td>
+                <td rowspan="1" colspan="1">13</td>
+                <td rowspan="1" colspan="1">74</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Female</td>
+                <td rowspan="1" colspan="1">4</td>
+                <td rowspan="1" colspan="1">34</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Age</td>
+                <td rowspan="1" colspan="1">59.59 &#xB1; 9.62</td>
+                <td rowspan="1" colspan="1">55.70 &#xB1; 11.30</td>
+                <td rowspan="1" colspan="1">0.182</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">BMI (kg/m<sup>2</sup>), <italic>n </italic>(%)</td>
+                <td rowspan="1" colspan="1">27.44 &#xB1; 3.92</td>
+                <td rowspan="1" colspan="1">24.25 &#xB1; 3.53</td>
+                <td rowspan="1" colspan="1">0.001</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">&#x2265; 29</td>
+                <td rowspan="1" colspan="1">5 (38.5)</td>
+                <td rowspan="1" colspan="1">10 (13.3)</td>
+                <td rowspan="1" colspan="1">0.042</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">&lt; 29</td>
+                <td rowspan="1" colspan="1">8 (61.5)</td>
+                <td rowspan="1" colspan="1">65 (86.7)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">ASA (1/2/3), <italic>n </italic>(%)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">0.769</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">1</td>
+                <td rowspan="1" colspan="1">0 (0.0)</td>
+                <td rowspan="1" colspan="1">1 (100.0)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">2</td>
+                <td rowspan="1" colspan="1">15 (13.2)</td>
+                <td rowspan="1" colspan="1">99 (86.8)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">3</td>
+                <td rowspan="1" colspan="1">2 (20.0)</td>
+                <td rowspan="1" colspan="1">8 (80.0)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Preoperative ALB (g)</td>
+                <td rowspan="1" colspan="1">39.62 &#xB1; 4.65</td>
+                <td rowspan="1" colspan="1">40.18 &#xB1; 5.86</td>
+                <td rowspan="1" colspan="1">0.709</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Preoperative HGB (g/L)</td>
+                <td rowspan="1" colspan="1">136.59 &#xB1; 17.77</td>
+                <td rowspan="1" colspan="1">135.26 &#xB1; 19.36</td>
+                <td rowspan="1" colspan="1">0.791</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">pT stage, <italic>n </italic>(%)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">0.776</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">T1</td>
+                <td rowspan="1" colspan="1">7 (38.5)</td>
+                <td rowspan="1" colspan="1">56 (49.3)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">T2</td>
+                <td rowspan="1" colspan="1">4 (23.1)</td>
+                <td rowspan="1" colspan="1">17 (20.0)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">T3</td>
+                <td rowspan="1" colspan="1">3 (15.4)</td>
+                <td rowspan="1" colspan="1">11 (8.0)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">T4a</td>
+                <td rowspan="1" colspan="1">3 (23.1)</td>
+                <td rowspan="1" colspan="1">23 (22.7)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">pN stage, <italic>n </italic>(%)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">0.872</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">N0</td>
+                <td rowspan="1" colspan="1">8 (38.5)</td>
+                <td rowspan="1" colspan="1">46 (45.3)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">N1</td>
+                <td rowspan="1" colspan="1">3 (15.4)</td>
+                <td rowspan="1" colspan="1">25 (22.7)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">N2</td>
+                <td rowspan="1" colspan="1">3 (23.1)</td>
+                <td rowspan="1" colspan="1">18 (13.3)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">N3</td>
+                <td rowspan="1" colspan="1">3 (23.1)</td>
+                <td rowspan="1" colspan="1">19 (18.7)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Previous abdominal operation</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">0.103</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Yes</td>
+                <td rowspan="1" colspan="1">1</td>
+                <td rowspan="1" colspan="1">25</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">No</td>
+                <td rowspan="1" colspan="1">16</td>
+                <td rowspan="1" colspan="1">83</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Neoadjuvant chemotherapy</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">0.234</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Yes</td>
+                <td rowspan="1" colspan="1">2</td>
+                <td rowspan="1" colspan="1">5</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">No</td>
+                <td rowspan="1" colspan="1">15</td>
+                <td rowspan="1" colspan="1">103</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Concurrent illness</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">0.800</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Yes</td>
+                <td rowspan="1" colspan="1">7</td>
+                <td rowspan="1" colspan="1">41</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">No</td>
+                <td rowspan="1" colspan="1">10</td>
+                <td rowspan="1" colspan="1">67</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Drain, <italic>n </italic>(%)</td>
+                <td rowspan="1" colspan="1">12 (15.8)</td>
+                <td rowspan="1" colspan="1">64 (84.2)</td>
+                <td rowspan="1" colspan="1">0.374</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">No drain, <italic>n </italic>(%)</td>
+                <td rowspan="1" colspan="1">5 (10.2)</td>
+                <td rowspan="1" colspan="1">44 (89.8)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Type of reconstruction, <italic>n </italic>(%)</td>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1"/>
+                <td rowspan="1" colspan="1">0.357</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Billroth I</td>
+                <td rowspan="1" colspan="1">4 (30.8)</td>
+                <td rowspan="1" colspan="1">32 (36.0)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Billroth II</td>
+                <td rowspan="1" colspan="1">10 (61.5)</td>
+                <td rowspan="1" colspan="1">69 (64.0)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Roux-en-Y</td>
+                <td rowspan="1" colspan="1">3 (7.7)</td>
+                <td rowspan="1" colspan="1">7 (0.0)</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Operative time (min)</td>
+                <td rowspan="1" colspan="1">195.82 &#xB1; 49.12</td>
+                <td rowspan="1" colspan="1">183.16 &#xB1; 41.69</td>
+                <td rowspan="1" colspan="1">0.258</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1">Blood loss (mL)</td>
+                <td rowspan="1" colspan="1">62.94 &#xB1; 42.54</td>
+                <td rowspan="1" colspan="1">82.22 &#xB1; 74.07</td>
+                <td rowspan="1" colspan="1">0.298</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn>
+              <p>ASA: American Society of Anesthesiologists; BMI: Body mass index; ALB: Albumin; HGB: Hemoglobin; pT: Primar tumor; pN: Regional lymph node.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+    </sec>
+    <sec>
+      <title>DISCUSSION</title>
+      <p>Since 2015, totally laparoscopic surgery has been widely used in clinical practice, although there are few reports on whether totally laparoscopic surgery requires prophylactic drains[<xref rid="B10" ref-type="bibr">10</xref>,<xref rid="B11" ref-type="bibr">11</xref>]. Most studies on prophylactic drains were based on open gastrectomy. Cochrane review included four single-institution, randomized controlled trials that sought to evaluate the role of prophylactic drain placement in gastric resection for gastric cancer[<xref rid="B12" ref-type="bibr">12</xref>-<xref rid="B14" ref-type="bibr">14</xref>]. In this study, we reviewed the clinicopathological data of patients with gastric cancer during the past 2 years and found that routine prophylactic drains were not necessary in selected patients. To minimize the risk of confounding variables, PSM was used. Routine prophylactic drains are not necessary in all patients. A prophylactic drain may be useful in patients at higher risk.</p>
+      <p>Prophylactic drains have been used to enhance early detection of complications, prevent collection of fluid, reduce morbidity and mortality, and decrease the duration of hospital stay[<xref rid="B15" ref-type="bibr">15</xref>,<xref rid="B16" ref-type="bibr">16</xref>]. The present study results showed that there was no significant difference between the two groups in terms of postoperative hospital stay. The length of the postoperative hospital stay in the no-drain group was shorter than that in the drain group (7.93 &#xB1; 4.98 d <italic>vs</italic> 6.81 &#xB1; 5.50 d, <italic>P</italic> &gt; 0.05). Among the 17 patients who experienced postoperative complications, there was also no significant difference between the two groups in terms of postoperative hospital stay. This result was different from that of Hirahara <italic>et al</italic>[<xref rid="B10" ref-type="bibr">10</xref>] study. In addition, omitting prophylactic drainage significantly improved the postoperative comfort of patients due to an earlier flatus (4.33 &#xB1; 1.24 d <italic>vs</italic> 3.57 &#xB1; 1.85 d, <italic>P</italic> &lt; 0.05). </p>
+      <p>Moreover, the application of prophylactic drains did not reduce the incidence of complications, and the rate of complications was even higher in the drain group. However, there was no statistically significant difference between the two groups (19.0% <italic>vs</italic> 9.5%, <italic>P </italic>&gt; 0.05). Through risk assessment, we identified that patients with a BMI &#x2265; 29 kg/m<sup>2</sup> are prone to postoperative complications (<italic>P</italic> = 0.042). More visceral fat may make surgery more difficult. Thus, prophylactic drain is recommended for patients with a BMI &gt; 29 kg/m<sup>2</sup>. </p>
+      <p>For patients with mild symptoms, administration of broad-spectrum antibiotics may be a good conservative management strategy. However, patients with severe symptoms need PCD. In the current study, postoperative complications were recognized in approximately 15% of patients. Two cases of duodenal stump leakage and two cases of intra-abdominal abscess occurred in the drain group, all of which required PCD. In the no-drain group, two cases of intra-abdominal abscess and one case of pleural effusion needed PCD. There was no significant difference between the two groups. Prophylactic drains do not alter the rates of secondary drainage procedures. Thus, omitting prophylactic drains during gastric cancer surgery did not increase the risk of PCD postoperatively. Similarly, in a study by Lee <italic>et al</italic>[<xref rid="B16" ref-type="bibr">16</xref>], omitting prophylactic drains did not increase the risk of PCD postoperatively, while male sex, older age, and longer operative time were identified as independent risk factors for postoperative PCD in patients without prophylactic drains.</p>
+    </sec>
+    <sec>
+      <title>CONCLUSION</title>
+      <p>In conclusion, omitting the use of prophylactic drains in selected patients during surgery for gastric cancer is feasible. It can significantly improve the postoperative comfort of patients and does not increase the risk of postoperative complications. </p>
+    </sec>
+    <sec>
+      <title>ARTICLE HIGHLIGHTS</title>
+      <sec>
+        <title>Research background</title>
+        <p>Prophylactic drains have been used to remove intraperitoneal collections and detect complications early in open surgery. In the last decades, minimally invasive gastric cancer surgery has been performed worldwide. However, reports on routine prophylactic abdominal drainage after totally laparoscopic distal gastrectomy are few.</p>
+      </sec>
+      <sec>
+        <title>Research motivation</title>
+        <p>To evaluate the feasibility of performing totally laparoscopic distal gastrectomy without prophylactic drains in selected patients.</p>
+      </sec>
+      <sec>
+        <title>Research objectives</title>
+        <p>To evaluate the feasibility of performing totally laparoscopic distal gastrectomy without prophylactic drains in selected patients.</p>
+      </sec>
+      <sec>
+        <title>Research methods</title>
+        <p>Data of patients with distal gastric cancer who underwent totally laparoscopic distal gastrectomy with and without prophylactic drainage at China National Cancer Center/Cancer Hospital from February 2018 to August 2019 were reviewed. </p>
+      </sec>
+      <sec>
+        <title>Research results</title>
+        <p>After PSM, data of 42 pairs were extracted. The incidence of concurrent illness was higher in the drain group (42.9% <italic>vs</italic> 31.0%, <italic>P</italic> = 0.258). The overall postoperative complication rates were 19.5% and 10.6% in the drain (<italic>n</italic> = 76) and no-drain groups (<italic>n</italic> = 49), respectively; there were no significant differences between the two groups (<italic>P</italic> &gt; 0.05). The difference between the two groups based on the need for percutaneous catheter drainage was also not significant (9.8% <italic>vs </italic>6.4%, <italic>P</italic> = 0.700). However, patients with a larger body mass index (&#x2265; 29 kg/m<sup>2</sup>) were prone to postoperative complications (<italic>P </italic>= 0.042). In addition, the number of days from surgery until the first flatus (4.33 &#xB1; 1.24 d <italic>vs</italic> 3.57 &#xB1; 1.85 d, <italic>P </italic>= 0.029) was greater in the drain group. </p>
+      </sec>
+      <sec>
+        <title>Research conclusions</title>
+        <p>Omitting prophylactic drainage may reduce surgery time and result in faster recovery. Routine prophylactic drains are not necessary in selected patients. A prophylactic drain may be useful in high-risk patients.</p>
+      </sec>
+      <sec>
+        <title>Research perspectives</title>
+        <p>Omitting the use of prophylactic drains can significantly improve the postoperative comfort of patients and does not increase the risk of postoperative complications. </p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p>Institutional review board statement: This study was approved by the Institutional Review Board of the National Cancer Center Hospital.</p>
+      </fn>
+      <fn>
+        <p>Informed consent statement: Patients were not required to give informed consent to the study because the analysis used anonymous clinical data that were obtained after each patient agreed to treatment by written consent. </p>
+      </fn>
+      <fn fn-type="COI-statement">
+        <p>Conflict-of-interest statement: The authors declare that they have no conflicts of interest to disclose.</p>
+      </fn>
+      <fn>
+        <p>Manuscript source: Unsolicited manuscript</p>
+      </fn>
+      <fn>
+        <p>Peer-review started: November 10, 2020</p>
+      </fn>
+      <fn>
+        <p>First decision: November 30, 2020</p>
+      </fn>
+      <fn>
+        <p>Article in press: March 29, 2021</p>
+      </fn>
+      <fn>
+        <p>Specialty type: Surgery</p>
+      </fn>
+      <fn>
+        <p>Country/Territory of origin: China</p>
+      </fn>
+      <fn>
+        <p>Peer-review report&#x2019;s scientific quality classification</p>
+      </fn>
+      <fn>
+        <p>Grade A (Excellent): A</p>
+      </fn>
+      <fn>
+        <p>Grade B (Very good): B, B, B</p>
+      </fn>
+      <fn>
+        <p>Grade C (Good): 0</p>
+      </fn>
+      <fn>
+        <p>Grade D (Fair): 0</p>
+      </fn>
+      <fn>
+        <p>Grade E (Poor): 0</p>
+      </fn>
+      <fn>
+        <p>P-Reviewer: Amin S, Chen Y, Park J, Tsegmed U S-Editor: Zhang L L-Editor: Wang TQ P-Editor: Wang LL</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <ref id="B1">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smith</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Bryant</surname>
+              <given-names>RG</given-names>
+            </name>
+          </person-group>
+          <article-title>Metal substitutions incarbonic anhydrase: a halide ion probe study</article-title>
+          <source>Biochem Biophys Res Commun</source>
+          <year>1975</year>
+          <volume>66</volume>
+          <fpage>1281</fpage>
+          <lpage>1286</lpage>
+          <pub-id pub-id-type="doi">10.1016/0006-291x(75)90498-2</pub-id>
+          <pub-id pub-id-type="pmid">3</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chen</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Zheng</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Baade</surname>
+              <given-names>PD</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Zeng</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Bray</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Jemal</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>XQ</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Cancer statistics in China, 2015</article-title>
+          <source>CA Cancer J Clin</source>
+          <year>2016</year>
+          <volume>66</volume>
+          <fpage>115</fpage>
+          <lpage>132</lpage>
+          <pub-id pub-id-type="doi">10.3322/caac.21338</pub-id>
+          <pub-id pub-id-type="pmid">26808342</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kitano</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Iso</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Moriyama</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sugimachi</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Laparoscopy-assisted Billroth I gastrectomy</article-title>
+          <source>Surg Laparosc Endosc</source>
+          <year>1994</year>
+          <volume>4</volume>
+          <fpage>146</fpage>
+          <lpage>148</lpage>
+          <pub-id pub-id-type="pmid">8180768</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>HH</given-names>
+            </name>
+            <name>
+              <surname>Hyung</surname>
+              <given-names>WJ</given-names>
+            </name>
+            <name>
+              <surname>Cho</surname>
+              <given-names>GS</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Han</surname>
+              <given-names>SU</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Ryu</surname>
+              <given-names>SW</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>HJ</given-names>
+            </name>
+            <name>
+              <surname>Song</surname>
+              <given-names>KY</given-names>
+            </name>
+          </person-group>
+          <article-title>Morbidity and mortality of laparoscopic gastrectomy <italic>vs</italic> open gastrectomy for gastric cancer: an interim report--a phase III multicenter, prospective, randomized Trial (KLASS Trial)</article-title>
+          <source>Ann Surg</source>
+          <year>2010</year>
+          <volume>251</volume>
+          <fpage>417</fpage>
+          <lpage>420</lpage>
+          <pub-id pub-id-type="doi">10.1097/SLA.0b013e3181cc8f6b</pub-id>
+          <pub-id pub-id-type="pmid">20160637</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yu</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Sun</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Su</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Cao</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Suo</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Tao</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>He</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Wei</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Ying</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Du</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Zheng</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Xie</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Ji</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <collab> Chinese Laparoscopic Gastrointestinal Surgery Study (CLASS) Group</collab>
+          <article-title>Effect of Laparoscopic <italic>vs</italic> Open Distal Gastrectomy on 3-Year Disease-Free Survival in Patients With Locally Advanced Gastric Cancer: The CLASS-01 Randomized Clinical Trial</article-title>
+          <source>JAMA</source>
+          <year>2019</year>
+          <volume>321</volume>
+          <fpage>1983</fpage>
+          <lpage>1992</lpage>
+          <pub-id pub-id-type="doi">10.1001/jama.2019.5359</pub-id>
+          <pub-id pub-id-type="pmid">31135850</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>MG</given-names>
+            </name>
+            <name>
+              <surname>Kawada</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>BS</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>TH</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>KC</given-names>
+            </name>
+            <name>
+              <surname>Yook</surname>
+              <given-names>JH</given-names>
+            </name>
+          </person-group>
+          <article-title>A totally laparoscopic distal gastrectomy with gastroduodenostomy (TLDG) for improvement of the early surgical outcomes in high BMI patients</article-title>
+          <source>Surg Endosc</source>
+          <year>2011</year>
+          <volume>25</volume>
+          <fpage>1076</fpage>
+          <lpage>1082</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00464-010-1319-0</pub-id>
+          <pub-id pub-id-type="pmid">20835726</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>MG</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>KC</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>BS</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>TH</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>HS</given-names>
+            </name>
+            <name>
+              <surname>Yook</surname>
+              <given-names>JH</given-names>
+            </name>
+          </person-group>
+          <article-title>A totally laparoscopic distal gastrectomy can be an effective way of performing laparoscopic gastrectomy in obese patients (body mass index&#x2265;30)</article-title>
+          <source>World J Surg</source>
+          <year>2011</year>
+          <volume>35</volume>
+          <fpage>1327</fpage>
+          <lpage>1332</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00268-011-1034-6</pub-id>
+          <pub-id pub-id-type="pmid">21424875</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ishikawa</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Matsumata</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Kishihara</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Fukuyama</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Masuda</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Laparoscopy-assisted distal gastrectomy for early gastric cancer with <italic>vs</italic> without prophylactic drainage</article-title>
+          <source>Surg Today</source>
+          <year>2011</year>
+          <volume>41</volume>
+          <fpage>1049</fpage>
+          <lpage>1053</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00595-010-4448-0</pub-id>
+          <pub-id pub-id-type="pmid">21773892</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <collab>Japanese Gastric Cancer Association</collab>
+          <article-title>Japanese gastric cancer treatment guidelines 2014 (ver. 4)</article-title>
+          <source>Gastric Cancer</source>
+          <year>2017</year>
+          <volume>20</volume>
+          <fpage>1</fpage>
+          <lpage>19</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10120-016-0622-4</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hirahara</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Matsubara</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Hayashi</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Takai</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Fujii</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Tajima</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <article-title>Significance of prophylactic intra-abdominal drain placement after laparoscopic distal gastrectomy for gastric cancer</article-title>
+          <source>World J Surg Oncol</source>
+          <year>2015</year>
+          <volume>13</volume>
+          <fpage>181</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12957-015-0591-9</pub-id>
+          <pub-id pub-id-type="pmid">25962503</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Shimoike</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Akagawa</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Yagi</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Sakaguchi</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Tokoro</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Nakao</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Tamura</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Fujii</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Mochida</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Umemoto</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Yoshimoto</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Kanaya</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Laparoscopic gastrectomy with and without prophylactic drains in gastric cancer: a propensity score-matched analysis</article-title>
+          <source>World J Surg Oncol</source>
+          <year>2019</year>
+          <volume>17</volume>
+          <fpage>144</fpage>
+          <pub-id pub-id-type="doi">10.1186/s12957-019-1690-9</pub-id>
+          <pub-id pub-id-type="pmid">31420062</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alvarez</surname>
+              <given-names>Uslar R</given-names>
+            </name>
+            <name>
+              <surname>Molina</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Torres</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Cancino</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Total gastrectomy with or without abdominal drains. A prospective randomized trial</article-title>
+          <source>Rev Esp Enferm Dig</source>
+          <year>2005</year>
+          <volume>97</volume>
+          <fpage>562</fpage>
+          <lpage>569</lpage>
+          <pub-id pub-id-type="doi">10.4321/s1130-01082005000800004</pub-id>
+          <pub-id pub-id-type="pmid">16266223</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kumar</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>SB</given-names>
+            </name>
+            <name>
+              <surname>Jaiswal</surname>
+              <given-names>VK</given-names>
+            </name>
+            <name>
+              <surname>Shah</surname>
+              <given-names>JN</given-names>
+            </name>
+            <name>
+              <surname>Shreshtha</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Gongal</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Is prophylactic placement of drains necessary after subtotal gastrectomy?</article-title>
+          <source>World J Gastroenterol</source>
+          <year>2007</year>
+          <volume>13</volume>
+          <fpage>3738</fpage>
+          <lpage>3741</lpage>
+          <pub-id pub-id-type="doi">10.3748/wjg.v13.i27.3738</pub-id>
+          <pub-id pub-id-type="pmid">17659736</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Hyung</surname>
+              <given-names>WJ</given-names>
+            </name>
+            <name>
+              <surname>Cheong</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Choi</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Noh</surname>
+              <given-names>SH</given-names>
+            </name>
+          </person-group>
+          <article-title>Gastric cancer surgery without drains: a prospective randomized trial</article-title>
+          <source>J Gastrointest Surg</source>
+          <year>2004</year>
+          <volume>8</volume>
+          <fpage>727</fpage>
+          <lpage>732</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.gassur.2004.05.018</pub-id>
+          <pub-id pub-id-type="pmid">15358335</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Messager</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Sabbagh</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Denost</surname>
+              <given-names>Q</given-names>
+            </name>
+            <name>
+              <surname>Regimbeau</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Laurent</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Rullier</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Sa</surname>
+              <given-names>Cunha A</given-names>
+            </name>
+            <name>
+              <surname>Mariette</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Is there still a need for prophylactic intra-abdominal drainage in elective major gastro-intestinal surgery?</article-title>
+          <source>J Visc Surg</source>
+          <year>2015</year>
+          <volume>152</volume>
+          <fpage>305</fpage>
+          <lpage>313</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jviscsurg.2015.09.008</pub-id>
+          <pub-id pub-id-type="pmid">26481067</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lee</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Choi</surname>
+              <given-names>YY</given-names>
+            </name>
+            <name>
+              <surname>An</surname>
+              <given-names>JY</given-names>
+            </name>
+            <name>
+              <surname>Seo</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>DW</given-names>
+            </name>
+            <name>
+              <surname>Seo</surname>
+              <given-names>YB</given-names>
+            </name>
+            <name>
+              <surname>Nakagawa</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Cheong</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Hyung</surname>
+              <given-names>WJ</given-names>
+            </name>
+            <name>
+              <surname>Noh</surname>
+              <given-names>SH</given-names>
+            </name>
+          </person-group>
+          <article-title>Do All Patients Require Prophylactic Drainage After Gastrectomy for Gastric Cancer?</article-title>
+          <source>Ann Surg Oncol</source>
+          <year>2015</year>
+          <volume>22</volume>
+          <fpage>3929</fpage>
+          <lpage>3937</lpage>
+          <pub-id pub-id-type="doi">10.1245/s10434-015-4521-4</pub-id>
+          <pub-id pub-id-type="pmid">25845430</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="data-availability">
+      <title>Data sharing statement</title>
+      <p>Some or all data and code generated or used during the study are available from the corresponding author by request</p>
+    </sec>
+  </back>
+</article>
+</pmc-articleset>

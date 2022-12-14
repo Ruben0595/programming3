@@ -1,0 +1,1430 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article">
+  <?properties open_access?>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Ind Psychiatry J</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Ind Psychiatry J</journal-id>
+      <journal-id journal-id-type="publisher-id">IPJ</journal-id>
+      <journal-title-group>
+        <journal-title>Industrial Psychiatry Journal</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0972-6748</issn>
+      <issn pub-type="epub">0976-2795</issn>
+      <publisher>
+        <publisher-name>Wolters Kluwer - Medknow</publisher-name>
+        <publisher-loc>India</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">33776281</article-id>
+      <article-id pub-id-type="pmc">7989462</article-id>
+      <article-id pub-id-type="publisher-id">IPJ-29-88</article-id>
+      <article-id pub-id-type="doi">10.4103/ipj.ipj_71_20</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Prevalence of childhood depression in school going adolescents in an urban Indian school</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Raja</surname>
+            <given-names>Dhiraj</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Singh</surname>
+            <given-names>Harpreet</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">1</xref>
+          <xref ref-type="corresp" rid="cor1"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chail</surname>
+            <given-names>Amit</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dangi</surname>
+            <given-names>Ankit</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">2</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">Department of Psychiatry, 151 Base Hospital, Guwahati, Assam, India</aff>
+      <aff id="aff2"><label>1</label>Department of Psychiatry, Command Hospital (Southern Command), Pune, Maharashtra, India</aff>
+      <aff id="aff3"><label>2</label>Department of Psychiatry, AFMC, Pune, Maharashtra, India</aff>
+      <author-notes>
+        <corresp id="cor1"><bold>Address for correspondence:</bold> Dr Harpreet Singh, Department of Psychiatry, Command Hospital (Southern Command), Pune - 411 040, Maharashtra, India. E-mail: <email xlink:href="drsinghharpreet@gmail.com">drsinghharpreet@gmail.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <season>Jan-Jun</season>
+        <year>2020</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>07</day>
+        <month>11</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>29</volume>
+      <issue>1</issue>
+      <fpage>88</fpage>
+      <lpage>92</lpage>
+      <history>
+        <date date-type="received">
+          <day>19</day>
+          <month>4</month>
+          <year>2020</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>09</day>
+          <month>7</month>
+          <year>2020</year>
+        </date>
+        <date date-type="accepted">
+          <day>02</day>
+          <month>8</month>
+          <year>2020</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright: &#xA9; 2020 Industrial Psychiatry Journal</copyright-statement>
+        <copyright-year>2020</copyright-year>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-sa/4.0">
+          <license-p>This is an open access journal, and articles are distributed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License, which allows others to remix, tweak, and build upon the work non-commercially, as long as appropriate credit is given and the new creations are licensed under the identical terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <sec id="st1">
+          <title>Background:</title>
+          <p>Understanding the prevalence of a psychiatric disorder among children is essential for formulating sound public health policy.</p>
+        </sec>
+        <sec id="st2">
+          <title>Aim:</title>
+          <p>This study is aimed to estimate the prevalence of depression in urban school-going adolescents and its association with age, sex, and birth order.</p>
+        </sec>
+        <sec id="st3">
+          <title>Materials and Methods:</title>
+          <p>A total of 500 participants in the age group 12&#x2013;16 years from a working-class community, studying in an urban school, were selected for the study. The children with a score greater than or equal to 19 on the CDI scale were taken for the second phase, and diagnosis of depression was confirmed by a psychiatric consultant through a clinical interview. In clinically diagnosed cases, all help was rendered, including follow-up.</p>
+        </sec>
+        <sec id="st4">
+          <title>Results:</title>
+          <p>The prevalence of clinical depression among school-going children of age group 12&#x2013;16 years was 8.4%. There was no significant gender difference in the prevalence of clinical depression. Significantly, more children had clinical depression in the age group of 14&#x2013;16 years than in the 12&#x2013;14 years of age group. Depressive symptoms were more among children with first birth order.</p>
+        </sec>
+        <sec id="st5">
+          <title>Conclusions:</title>
+          <p>These results show that depression is common in school going urban adolescents in India and highlight the need for screening school-age children for depression so that early intervention can be provided.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <kwd>Adolescents</kwd>
+        <kwd>CDI</kwd>
+        <kwd>childhood depression</kwd>
+        <kwd>prevalence</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="sec1-1">
+      <title>INTRODUCTION</title>
+      <p>Depressive disorders occur in children of all ages but are more prevalent with increasing age and are significantly higher in teenagers as compared to younger children.[<xref rid="ref1" ref-type="bibr">1</xref><xref rid="ref2" ref-type="bibr">2</xref><xref rid="ref3" ref-type="bibr">3</xref>] Adolescence, the transition period from childhood to adulthood is marked by emotional instability and rapid physical and social changes. These can be associated with emotional disturbances, depression, and anxiety disorders. Studies show that childhood anxiety may predict the development of adult depression in both men and women.[<xref rid="ref4" ref-type="bibr">4</xref>]</p>
+      <p>Depression is one of the leading causes of poor school performance. It can be associated with learning problems, school dropouts; delinquency, or sexual promiscuity.[<xref rid="ref5" ref-type="bibr">5</xref>] Depression in adolescence may also manifest with drug and alcohol abuse, excessive risk-taking behaviors, phobias, panic, and eating disorders.[<xref rid="ref6" ref-type="bibr">6</xref><xref rid="ref7" ref-type="bibr">7</xref>] Depression is a major risk factor for suicide in adolescents.[<xref rid="ref8" ref-type="bibr">8</xref>] Adolescence is a critical period for developmental from a bio-psycho-social perspective. An adolescent develops a sense of self and social identity through stable relationships and takes major career decisions. Adolescent depression can interfere with the successful acquisition of skills needed for stable and productive adulthood.[<xref rid="ref9" ref-type="bibr">9</xref><xref rid="ref10" ref-type="bibr">10</xref><xref rid="ref11" ref-type="bibr">11</xref><xref rid="ref12" ref-type="bibr">12</xref><xref rid="ref13" ref-type="bibr">13</xref>]</p>
+      <p>Depressive disorders in children, adolescents, and adults are similar phenomenological entities, and studies have shown that the same diagnostic criteria can be reliably applied to these three age groups.[<xref rid="ref13" ref-type="bibr">13</xref><xref rid="ref14" ref-type="bibr">14</xref><xref rid="ref15" ref-type="bibr">15</xref>]</p>
+      <p>Varied prevalence rates have been reported for depression in children and adolescents. Such variations may result from differences in the study population, sample sizes, diagnostic criteria, and interviewing techniques. In community studies, point prevalence of major depressive disorder in adolescents has been estimated to be 0.1%&#x2013;8% in Indian studies and 0.2%&#x2013;17% in Western literature.[<xref rid="ref3" ref-type="bibr">3</xref><xref rid="ref16" ref-type="bibr">16</xref>] School based studies report a higher prevalence than community studies. Almost all studies report a higher prevalence among adolescents than children.</p>
+      <p>An epidemiological study from Brazil using the Children's Depression Inventory (CDI) with a cut-off score of 19 reported significant depressive symptoms in 20.2% of students aged 10&#x2013;17 years.[<xref rid="ref17" ref-type="bibr">17</xref>] There was a significant predominance of females, nonsignificant trend of increasing rates of depressive symptoms from 10 to 15 years, and a decreasing trend in ages 16&#x2013;17 years. A cross-sectional study in Turkey, using Children Beck Depression Inventory (BDI) (cutoff point: 19), reported prevalence of depression at 12.55% among school students (6<sup>th</sup>&#x2013;11<sup>th</sup> grades) with a significantly higher prevalence in girls than boys.[<xref rid="ref18" ref-type="bibr">18</xref>] A school based study (14&#x2013;20 years) in Trinidad (West Indies) using the Reynolds Adolescent Depression Scale found the prevalence of depression to be 8.2% in males and 17.9% in females, respectively.[<xref rid="ref19" ref-type="bibr">19</xref>]</p>
+      <p>Indian studies on the prevalence of childhood depression have reported results ranging from 0.48% to 49.2%.[<xref rid="ref20" ref-type="bibr">20</xref><xref rid="ref21" ref-type="bibr">21</xref>] In India, the National Mental Health Survey (2015&#x2013;2016) reported a prevalence rate of 0.8% for depression in 13&#x2013;17-year age group.[<xref rid="ref20" ref-type="bibr">20</xref>] World Health Organization in Global school-based student health surveys reported that in India (in 2007), 24.6% of 13&#x2013;15 years old students felt so depressed or hopeless almost daily for 2 or more weeks in the past year that they stopped doing their usual activities.[<xref rid="ref21" ref-type="bibr">21</xref>] Nair <italic>et al</italic>. assessed school-going adolescents (13&#x2013;19 years) using BDI and observed that 22.4% of girls and 12.8% of boys had depression of various grades.[<xref rid="ref22" ref-type="bibr">22</xref>] Bansal <italic>et al</italic>. reported the prevalence of depression of 18.4% using a BDI cut-off score of 12, among students in 9<sup>th</sup> standard in a public school.[<xref rid="ref23" ref-type="bibr">23</xref>]</p>
+      <p>Depression being an internalized disorder, is difficult to detect. The subject looks healthy, does not show externalized behavior and is, therefore, not shown to a mental health professional. Depression in adolescence substantially increases the risk of developing recurrent depression in later life.[<xref rid="ref2" ref-type="bibr">2</xref><xref rid="ref9" ref-type="bibr">9</xref><xref rid="ref10" ref-type="bibr">10</xref><xref rid="ref24" ref-type="bibr">24</xref>] Identification of depression in children and adolescents can ensure early and appropriate secondary preventive interventions to reduce morbidity and long-term consequences. Knowledge of the prevalence of adolescent depression can inform policymakers about the magnitude of the problem and guide them in resource allocation for early intervention programs. Keeping this in mind, the present study was undertaken to estimate the prevalence of depression in school-going children in an urban population in the age group of 12&#x2013;16 years.</p>
+    </sec>
+    <sec sec-type="materials|methods" id="sec1-2">
+      <title>MATERIALS AND METHODS</title>
+      <p>A cross-sectional study design was adopted. Approval of the Ethics Committee of the Institution was obtained before conducting the study. The study was conducted in a large school in Pune. Informed consent of the parents was taken during parent-teacher meetings. The scope and benefit of the study were explained to them. Names of the school and students were kept confidential. Most parents were from a working middle-class background. An effort was made to interview the family together in one sitting. Close relatives like the grandparents were also accepted as informants. The interviewing was carried out at the Child Guidance Clinic of a tertiary care hospital.</p>
+      <sec id="sec2-1">
+        <title>Inclusion criteria</title>
+        <p>(a) Age: 12&#x2013;16 years (b) Could read, write, and understand English (c) had been studying in the school for &gt;6 months.</p>
+      </sec>
+      <sec id="sec2-2">
+        <title>Exclusion criteria</title>
+        <p>Those whose parents did not report in any of the three parents&#x2013;teachers meetings especially organized preceding this study (for imparting information and taking consent) were excluded from the study.</p>
+        <p>Out of 561 registered students, 500 (Male = 323, Female = 177) were finally selected for the study. The major cause of exclusion was that the informed consent of the parents could not be taken. The study was conducted in 2 phases.</p>
+      </sec>
+      <sec id="sec2-3">
+        <title>Statistical analysis</title>
+        <p>Descriptive statistics were applied to obtain the means and frequencies of sociodemographic and clinical data of the sample. Unpaired <italic>t</italic>-test was used to compare the means between two groups. The Chi-square test of independence was used to determine if there was a significant association between two categorical variables.</p>
+      </sec>
+      <sec id="sec2-4">
+        <title>First phase: Screening</title>
+        <p>The Children's Depressive Inventory (CDI), was administered.[<xref rid="ref25" ref-type="bibr">25</xref><xref rid="ref26" ref-type="bibr">26</xref>] The CDI is a 27-item self-report scale that is symptom-oriented. Twelve teachers took part in the screening process. The questionnaire was explained to the teachers. A copy of CDI was given to each child. An administrator read the questions aloud, while students read along silently on their copy and marked the answers. This was done to assist children with reading or attention problems.</p>
+      </sec>
+      <sec id="sec2-5">
+        <title>Second phase</title>
+        <p>Children with a score of 19 or more were considered for the second phase. Their parents were contacted. A diagnosis of depression was confirmed by a psychiatric consultant through a clinical interview.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="sec1-3">
+      <title>RESULTS</title>
+      <p>Of the 500 students in the study sample 323 (64.6%) were male and 177 (35.4%) were female. Of the total study sample, 74 (14.80%) were of age group 12&#x2013;13 years, 153 (30.60%) were of age group 13&#x2013;14 years, 131 (26.20%) were of age group 14&#x2013;15 and 142 (28.40%) were of age group 15&#x2013;16 years.</p>
+      <p>In the first phase, 54 students screened positive for depression (score of 19 or more on CDI) of which 36 (11%) were boys and 18 (10%) were girls. There was no significant association between gender and screened positive students [<xref rid="T1" ref-type="table">Table 1</xref>].</p>
+      <table-wrap id="T1" position="float">
+        <label>Table 1</label>
+        <caption>
+          <p>Children&#x2019;s depression inventory score and gender distribution of students in study group</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th align="left" rowspan="1" colspan="1">CDI score</th>
+              <th align="center" rowspan="1" colspan="1">Boys (%)</th>
+              <th align="center" rowspan="1" colspan="1">Girls (%)</th>
+              <th align="center" rowspan="1" colspan="1">Total (%)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&lt;19</td>
+              <td align="center" rowspan="1" colspan="1">287 (88.85)</td>
+              <td align="center" rowspan="1" colspan="1">159 (89.83)</td>
+              <td align="center" rowspan="1" colspan="1">446 (89.2)</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">&gt;18</td>
+              <td align="center" rowspan="1" colspan="1">36 (11.15)</td>
+              <td align="center" rowspan="1" colspan="1">18 (10.17)</td>
+              <td align="center" rowspan="1" colspan="1">54 (10.8)</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Total</td>
+              <td align="center" rowspan="1" colspan="1">323 (100)</td>
+              <td align="center" rowspan="1" colspan="1">177 (100)</td>
+              <td align="center" rowspan="1" colspan="1">500 (100)</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p><italic>&#x3C7;</italic><sup>2</sup>=1.87; <italic>P</italic>&gt;0.05. CDI &#x2013; Children&#x2019;s depression inventory</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>The 54 children who screened positive were interviewed by a psychiatrist who was blinded to the CDI score. Diagnosis of clinical depression was confirmed by DSM IV-TR criteria for depression in children. Out of 54 screened positive students, 42 had clinical depression, whereas 12 students had subsyndromal depressive symptoms. Among the screened positive students, mean CDI score of those with definite clinical depression was significantly higher than those with subsyndromal depression [<xref rid="T2" ref-type="table">Table 2</xref>].</p>
+      <table-wrap id="T2" position="float">
+        <label>Table 2</label>
+        <caption>
+          <p>Comparison of mean children&#x2019;s depression inventory score in clinically depressed children with children not found clinically depressed in those scoring above cutoff</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th align="left" rowspan="1" colspan="1">Clinical depression</th>
+              <th align="center" rowspan="1" colspan="1">Present (<italic>n</italic>=42)</th>
+              <th align="center" rowspan="1" colspan="1">Absent (<italic>n</italic>=12)</th>
+              <th align="center" rowspan="1" colspan="1">
+                <italic>t</italic>
+              </th>
+              <th align="center" rowspan="1" colspan="1">
+                <italic>P</italic>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">CDI score (mean&#xB1;SD)</td>
+              <td align="center" rowspan="1" colspan="1">23.90&#xB1;3.89</td>
+              <td align="center" rowspan="1" colspan="1">20.00&#xB1;0.95</td>
+              <td align="center" rowspan="1" colspan="1">3.42</td>
+              <td align="center" rowspan="1" colspan="1"><italic>P</italic>&lt;0.05</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p>CDI &#x2013; Children&#x2019;s depression inventory; SD &#x2013; Standard deviation</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>The gender distribution of clinically depressed cases is given as per <xref rid="T3" ref-type="table">Table 3</xref>. Out of 323 males, 28 (8.67%) were diagnosed with clinical depression and 14 out of 177 females (7.91%) were found clinically depressed. There was no significant association between gender and clinical depression [<xref rid="T3" ref-type="table">Table 3</xref>].</p>
+      <table-wrap id="T3" position="float">
+        <label>Table 3</label>
+        <caption>
+          <p>Gender and clinical depression in study group</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th align="left" rowspan="1" colspan="1">Sex</th>
+              <th align="center" rowspan="1" colspan="1">Clinical depression (%)</th>
+              <th align="center" rowspan="1" colspan="1">No clinical depression (%)</th>
+              <th align="center" rowspan="1" colspan="1">Total (%)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Male</td>
+              <td align="center" rowspan="1" colspan="1">28 (8.67)</td>
+              <td align="center" rowspan="1" colspan="1">295</td>
+              <td align="center" rowspan="1" colspan="1">323 (100)</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Female</td>
+              <td align="center" rowspan="1" colspan="1">14 (7.91)</td>
+              <td align="center" rowspan="1" colspan="1">163</td>
+              <td align="center" rowspan="1" colspan="1">177 (100)</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Total</td>
+              <td align="center" rowspan="1" colspan="1">42 (8.4)</td>
+              <td align="center" rowspan="1" colspan="1">458 (91.6)</td>
+              <td align="center" rowspan="1" colspan="1">500 (100)</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p><italic>&#x3C7;</italic><sup>2</sup>=0.085636; <italic>P</italic>=0.7698</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>There was a significant association between age and clinical depression [<xref rid="T4" ref-type="table">Table 4</xref>]. The percentage of students with clinical depression was highest (12.7%) in 15&#x2013;16 years age group and tapered down to 9.9% in 14&#x2013;15 years old, 5.9% in 13&#x2013;14 years old to a low of 2.7% in the youngest group considered (12&#x2013;13 years).</p>
+      <table-wrap id="T4" position="float">
+        <label>Table 4</label>
+        <caption>
+          <p>Association of age and clinical depression</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th align="left" rowspan="1" colspan="1">Age</th>
+              <th align="center" rowspan="1" colspan="1">Clinical depression (%)</th>
+              <th align="center" rowspan="1" colspan="1">No clinical depression (%)</th>
+              <th align="center" rowspan="1" colspan="1">Total</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">12-14</td>
+              <td align="center" rowspan="1" colspan="1">12 (5.3)</td>
+              <td align="center" rowspan="1" colspan="1">215 (94.7)</td>
+              <td align="center" rowspan="1" colspan="1">227 (100)</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">14-16</td>
+              <td align="center" rowspan="1" colspan="1">30 (11)</td>
+              <td align="center" rowspan="1" colspan="1">243 (89)</td>
+              <td align="center" rowspan="1" colspan="1">273 (100)</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Total</td>
+              <td align="center" rowspan="1" colspan="1">42 (8.4)</td>
+              <td align="center" rowspan="1" colspan="1">458 (91.6)</td>
+              <td align="center" rowspan="1" colspan="1">500 (100)</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p><italic>&#x3C7;</italic><sup>2</sup>=5.238414; <italic>P</italic>&lt;0.05</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>There was also a significant association between birth order and Clinical Depression. Fifty percent (21 of 42) depressed students were firstborn or only child, 19 were second born, and two were 3<sup>rd</sup> born [<xref rid="T5" ref-type="table">Table 5</xref>].</p>
+      <table-wrap id="T5" position="float">
+        <label>Table 5</label>
+        <caption>
+          <p>Birth order and clinical depression in study group</p>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <th align="left" rowspan="3" colspan="1">Birth order</th>
+              <th align="center" colspan="2" rowspan="1">Depression</th>
+              <th align="center" rowspan="3" colspan="1">Total (%)</th>
+            </tr>
+            <tr>
+              <th align="left" colspan="2" rowspan="1">
+                <hr/>
+              </th>
+            </tr>
+            <tr>
+              <th align="center" rowspan="1" colspan="1">Present (%)</th>
+              <th align="center" rowspan="1" colspan="1">Absent (%)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">1</td>
+              <td align="center" rowspan="1" colspan="1">21 (14.38)</td>
+              <td align="center" rowspan="1" colspan="1">125 (85.62)</td>
+              <td align="center" rowspan="1" colspan="1">146 (100)</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">2</td>
+              <td align="center" rowspan="1" colspan="1">19 (10.16)</td>
+              <td align="center" rowspan="1" colspan="1">168 (89.84)</td>
+              <td align="center" rowspan="1" colspan="1">187 (100)</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">3</td>
+              <td align="center" rowspan="1" colspan="1">2 (1.2)</td>
+              <td align="center" rowspan="1" colspan="1">165 (98.8)</td>
+              <td align="center" rowspan="1" colspan="1">167 (100)</td>
+            </tr>
+            <tr>
+              <td align="left" rowspan="1" colspan="1">Total</td>
+              <td align="center" rowspan="1" colspan="1">42 (8.4)</td>
+              <td align="center" rowspan="1" colspan="1">458 (91.6)</td>
+              <td align="center" rowspan="1" colspan="1">500 (100)</td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <fn>
+            <p><italic>&#x3C7;</italic><sup>2</sup>=18.80, <italic>P</italic>&lt;0.05</p>
+          </fn>
+        </table-wrap-foot>
+      </table-wrap>
+    </sec>
+    <sec sec-type="discussion" id="sec1-4">
+      <title>DISCUSSION</title>
+      <p>Depression in adolescence differs from those in middle childhood in certain important aspects. Therefore, there was a need to restrict the sample to one age group to eliminate the need to make age corrections. Such a restriction has the limitation that the findings may only be applied to that age group. Most earlier Indian studies have either taken a narrower range of 8&#x2013;10 years and 9&#x2013;11 years or a broader range of 0&#x2013;16 years and 4&#x2013;11 years.[<xref rid="ref27" ref-type="bibr">27</xref><xref rid="ref28" ref-type="bibr">28</xref><xref rid="ref29" ref-type="bibr">29</xref>] Only a few studies have taken age range keeping the target population exclusively as adolescent school children. The age group of 12&#x2013;16 was considered as ideal as it covered the maximum proportion of the adolescent population in schools.</p>
+      <p>This study showed no significant gender difference in the prevalence of depression. This is in contrast to most other studies which have reported a higher prevalence of depression in girls than in boys with the ratio approaching the adult ratio of 2: 1 in late adolescence. However, a community study by Mishra <italic>et al</italic>. in Uttar Pradesh using similar methodology also reported no significant gender difference in the adolescent population in the age group of 11&#x2013;18 years.[<xref rid="ref30" ref-type="bibr">30</xref>] A prospective, 10-year longitudinal study of gender differences in depressive symptoms from preadolescence to young adulthood revealed that while small gender differences are present between the ages of 13 and 15 years, the greatest difference was between 15 and 18 years.[<xref rid="ref31" ref-type="bibr">31</xref>] Since our sample was in the age group of 12&#x2013;16 year, it is possible that gender difference had not yet manifested. Depression in adolescent girls has been linked primarily to female hormonal changes than to chronological age.[<xref rid="ref32" ref-type="bibr">32</xref>] Since the onset of puberty in Indian girls is often later than those in developed nations, it is possible that the gender difference in the prevalence of depression also occurs later. Further studies are needed with older adolescents up to the age of about 19 years to test this hypothesis.</p>
+      <p>There was a significant association between age and clinical depression. While 5.3% of students in the age group of 12&#x2013;14 years had clinical depression, 11% of those in 14&#x2013;16 years age group were clinically depressed. This is in agreement with other studies and reviews, which report that the prevalence of depression increases with age during adolescence.[<xref rid="ref2" ref-type="bibr">2</xref><xref rid="ref3" ref-type="bibr">3</xref><xref rid="ref12" ref-type="bibr">12</xref>]</p>
+      <p>We also found an association between birth order and depression with a significantly higher prevalence of clinical depression among the firstborn or only children. Adler had hypothesized that firstborn children are more competitive and prone to neurosis and depression that later-born ones. Our results seem to be in agreement with this hypothesis, although other studies have found no association between birth order and depression in adolescents.[<xref rid="ref33" ref-type="bibr">33</xref>] Some have even reported a higher rate of depression in middle or last-born children.[<xref rid="ref34" ref-type="bibr">34</xref><xref rid="ref35" ref-type="bibr">35</xref>] It has been hypothesized that the eldest child is introduced to the economic or social responsibilities at an early age, thus predisposing him/her to psychological problems.[<xref rid="ref36" ref-type="bibr">36</xref>] In India, the eldest male child is expected to bear the economic or social responsibilities of the joint family. This fact is instilled at an early age. This may increase the stress and predispose him to psychological problems.</p>
+      <p>Because of limited trained workforce, we restricted the sample size to 500. A larger sample would have increased the power of study with better generalizability. The selected age group (12&#x2013;16 years) also limits any extrapolation of our findings to other age groups in the population. The subjects were primarily from upper = and middle-class backgrounds; therefore, including subjects from lower socioeconomic backgrounds would have led to more realistic and comprehensive conclusions.</p>
+    </sec>
+    <sec sec-type="conclusions" id="sec1-5">
+      <title>CONCLUSIONS</title>
+      <p>In this study, the overall prevalence rate of clinical depression was 8.4%. School mental health is a neglected area in our country, and only a small fraction of these cases would have come to attention or received appropriate intervention under normal circumstances. Our findings highlight the need to have a structured school mental health program for the promotion of mental health and early intervention in cases with childhood depression.</p>
+      <sec id="sec2-6">
+        <title>Financial support and sponsorship</title>
+        <p>Nil.</p>
+      </sec>
+      <sec id="sec2-7" sec-type="COI-statement">
+        <title>Conflicts of interest</title>
+        <p>There are no conflicts of interest.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>REFERENCES</title>
+      <ref id="ref1">
+        <label>1</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maughan</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Collishaw</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Stringaris</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Depression in childhood and adolescence</article-title>
+          <source>J Can Acad Child Adolesc Psychiatry</source>
+          <year>2013</year>
+          <volume>22</volume>
+          <fpage>35</fpage>
+          <lpage>40</lpage>
+          <pub-id pub-id-type="pmid">23390431</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref2">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thapar</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Collishaw</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Pine</surname>
+              <given-names>DS</given-names>
+            </name>
+            <name>
+              <surname>Thapar</surname>
+              <given-names>AK</given-names>
+            </name>
+          </person-group>
+          <article-title>Depression in adolescence</article-title>
+          <source>Lancet</source>
+          <year>2012</year>
+          <volume>379</volume>
+          <fpage>1056</fpage>
+          <lpage>67</lpage>
+          <pub-id pub-id-type="pmid">22305766</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref3">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grover</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Raju</surname>
+              <given-names>VV</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Shah</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Depression in children and adolescents: A review of Indian studies</article-title>
+          <source>Indian J Psychol Med</source>
+          <year>2019</year>
+          <volume>41</volume>
+          <fpage>216</fpage>
+          <lpage>27</lpage>
+          <pub-id pub-id-type="pmid">31142922</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Clark</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Rodgers</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Caldwell</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Power</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Stansfeld</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Childhood and adulthood psychological ill health as predictors of midlife affective and anxiety disorders: The 1958 British Birth Cohort</article-title>
+          <source>Arch Gen Psychiatry</source>
+          <year>2007</year>
+          <volume>64</volume>
+          <fpage>668</fpage>
+          <lpage>78</lpage>
+          <pub-id pub-id-type="pmid">17548748</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref5">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mendle</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Ferrero</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Harden</surname>
+              <given-names>KP</given-names>
+            </name>
+          </person-group>
+          <article-title>Depression and adolescent sexual activity in romantic and nonromantic relational contexts: A genetically-informative sibling comparison</article-title>
+          <source>J Abnormal Psychol</source>
+          <year>2013</year>
+          <volume>122</volume>
+          <fpage>51</fpage>
+          <lpage>63</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heger</surname>
+              <given-names>JP</given-names>
+            </name>
+            <name>
+              <surname>Brunner</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Parzer</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Fischer</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Resch</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Kaess</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Depression and risk behavior in adolescence</article-title>
+          <source>Prax Kinderpsychol Kinderpsychiatr</source>
+          <year>2014</year>
+          <volume>63</volume>
+          <fpage>177</fpage>
+          <lpage>99</lpage>
+          <pub-id pub-id-type="pmid">24707767</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref7">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ranta</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>V&#xE4;&#xE4;n&#xE4;nen</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Fr&#xF6;jd</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Isomaa</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Kaltiala-Heino</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Marttunen</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Social phobia, depression and eating disorders during middle adolescence: Longitudinal associations and treatment seeking</article-title>
+          <source>Nord J Psychiatry</source>
+          <year>2017</year>
+          <volume>71</volume>
+          <fpage>605</fpage>
+          <lpage>13</lpage>
+          <pub-id pub-id-type="pmid">28868945</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref8">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Windfuhr</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>While</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Hunt</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Turnbull</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Lowe</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Burns</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Suicide in juveniles and adolescents in the United Kingdom</article-title>
+          <source>J Child Psychol Psychiatry</source>
+          <year>2008</year>
+          <volume>49</volume>
+          <fpage>1155</fpage>
+          <lpage>65</lpage>
+          <pub-id pub-id-type="pmid">19017029</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref9">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reinherz</surname>
+              <given-names>HZ</given-names>
+            </name>
+            <name>
+              <surname>Giaconia</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Hauf</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Wasserman</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Silverman</surname>
+              <given-names>AB</given-names>
+            </name>
+          </person-group>
+          <article-title>Major depression in the transition to adulthood: Risks and impairments</article-title>
+          <source>J Abnorm Psychol</source>
+          <year>1999</year>
+          <volume>108</volume>
+          <fpage>500</fpage>
+          <lpage>10</lpage>
+          <pub-id pub-id-type="pmid">10466274</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref10">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lewinsohn</surname>
+              <given-names>PM</given-names>
+            </name>
+            <name>
+              <surname>Rohde</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Klein</surname>
+              <given-names>DN</given-names>
+            </name>
+            <name>
+              <surname>Seeley</surname>
+              <given-names>JR</given-names>
+            </name>
+          </person-group>
+          <article-title>Natural course of adolescent major depressive disorder: I. Continuity into young adulthood</article-title>
+          <source>J Am Acad Child Adolesc Psychiatry</source>
+          <year>1999</year>
+          <volume>38</volume>
+          <fpage>56</fpage>
+          <lpage>63</lpage>
+          <pub-id pub-id-type="pmid">9893417</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref11">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rao</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>LA</given-names>
+            </name>
+          </person-group>
+          <article-title>Characteristics, correlates, and outcomes of childhood and adolescent depressive disorders</article-title>
+          <source>Dialogues Clin Neurosci</source>
+          <year>2009</year>
+          <volume>11</volume>
+          <fpage>45</fpage>
+          <lpage>62</lpage>
+          <pub-id pub-id-type="pmid">19432387</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref12">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mullen</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Major depressive disorder in children and adolescents</article-title>
+          <source>Ment Health Clin</source>
+          <year>2018</year>
+          <volume>8</volume>
+          <fpage>275</fpage>
+          <lpage>83</lpage>
+          <pub-id pub-id-type="pmid">30397569</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref13">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Malhotra</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Das</surname>
+              <given-names>PP</given-names>
+            </name>
+          </person-group>
+          <article-title>Understanding childhood depression</article-title>
+          <source>Indian J Med Res</source>
+          <year>2007</year>
+          <volume>125</volume>
+          <fpage>115</fpage>
+          <lpage>28</lpage>
+          <pub-id pub-id-type="pmid">17431280</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref14">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bernaras</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Jaureguizar</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Garaigordobil</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Child and adolescent depression: A review of theories, evaluation instruments, prevention programs, and treatments</article-title>
+          <source>Front Psychol</source>
+          <year>2019</year>
+          <volume>10</volume>
+          <fpage>543</fpage>
+          <pub-id pub-id-type="pmid">30949092</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref15">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lewandowski</surname>
+              <given-names>RE</given-names>
+            </name>
+            <name>
+              <surname>Acri</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Hoagwood</surname>
+              <given-names>KE</given-names>
+            </name>
+            <name>
+              <surname>Olfson</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Clarke</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Gardner</surname>
+              <given-names>W</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Evidence for the management of adolescent depression</article-title>
+          <source>Pediatrics</source>
+          <year>2013</year>
+          <volume>132</volume>
+          <fpage>e996</fpage>
+          <lpage>1009</lpage>
+          <pub-id pub-id-type="pmid">24043282</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref16">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Merikangas</surname>
+              <given-names>KR</given-names>
+            </name>
+            <name>
+              <surname>Nakamura</surname>
+              <given-names>EF</given-names>
+            </name>
+            <name>
+              <surname>Kessler</surname>
+              <given-names>RC</given-names>
+            </name>
+          </person-group>
+          <article-title>Epidemiology of mental disorders in children and adolescents</article-title>
+          <source>Dialogues Clin Neurosci</source>
+          <year>2009</year>
+          <volume>11</volume>
+          <fpage>7</fpage>
+          <lpage>20</lpage>
+          <pub-id pub-id-type="pmid">19432384</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref17">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Saint-Clair</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Epidemiology of depressive symptoms in adolescents of a public school in Curitiba, Brazil</article-title>
+          <source>Brazilian J Psychiatry</source>
+          <year>2004</year>
+          <volume>24</volume>
+          <fpage>63</fpage>
+          <lpage>7</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref18">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Toros</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Bilgin</surname>
+              <given-names>NG</given-names>
+            </name>
+            <name>
+              <surname>Bugdayci</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Sasmaz</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Kurt</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Camdeviren</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Prevalence of depression as measured by the CBDI in a predominantly adolescent school population in Turkey</article-title>
+          <source>Eur Psychiatry</source>
+          <year>2004</year>
+          <volume>19</volume>
+          <fpage>264</fpage>
+          <lpage>71</lpage>
+          <pub-id pub-id-type="pmid">15276658</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref19">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Maharajh</surname>
+              <given-names>HD</given-names>
+            </name>
+            <name>
+              <surname>Ali</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Konings</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Adolescent depression in Trinidad and Tobago</article-title>
+          <source>Eur Child Adolesc Psychiatry</source>
+          <year>2006</year>
+          <volume>15</volume>
+          <fpage>30</fpage>
+          <lpage>7</lpage>
+          <pub-id pub-id-type="pmid">16514507</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref20">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gururaj</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Varghese</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Benegal</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Rao</surname>
+              <given-names>GN</given-names>
+            </name>
+            <name>
+              <surname>Pathak</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>LK</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>and NMHS collaborators group National Mental Health Survey of India, 2015-16: Prevalence, Patterns and Outcomes Bengaluru, National Institute of Mental Health and Neuro Sciences, NIMHANS Publication No 129</article-title>
+          <year>2016</year>
+        </element-citation>
+      </ref>
+      <ref id="ref21">
+        <label>21</label>
+        <element-citation publication-type="webpage">
+          <collab>World Health Organization</collab>
+          <source>Regional Office for South-East Asia Mental Health Status of adolescents in South-East Asia: Evidence for action World Health Organization Regional Office for South-East Asia</source>
+          <year>2017</year>
+          <date-in-citation>Last accessed on 08 July 2020</date-in-citation>
+          <comment>Available from: <uri xlink:type="simple" xlink:href="https://appswhoint/iris/handle/10665/254982">https://appswhoint/iris/handle/10665/254982</uri></comment>
+        </element-citation>
+      </ref>
+      <ref id="ref22">
+        <label>22</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nair</surname>
+              <given-names>MK</given-names>
+            </name>
+            <name>
+              <surname>Paul</surname>
+              <given-names>MK</given-names>
+            </name>
+            <name>
+              <surname>John</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Prevalence of depression among adolescents</article-title>
+          <source>Indian J Pediatr</source>
+          <year>2004</year>
+          <volume>71</volume>
+          <fpage>523</fpage>
+          <lpage>4</lpage>
+          <pub-id pub-id-type="pmid">15226562</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref23">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bansal</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Goyal</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Srivastava</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Study of prevalence of depression in adolescent students of a public school</article-title>
+          <source>Ind Psychiatry J</source>
+          <year>2009</year>
+          <volume>18</volume>
+          <fpage>43</fpage>
+          <lpage>6</lpage>
+          <pub-id pub-id-type="pmid">21234162</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref24">
+        <label>24</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gilman</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Kawachi</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Fitzmaurice</surname>
+              <given-names>GM</given-names>
+            </name>
+            <name>
+              <surname>Buka</surname>
+              <given-names>SL</given-names>
+            </name>
+          </person-group>
+          <article-title>Socio-economic status, family disruption and residential stability in childhood: Relation to onset, recurrent, and remission of major depression</article-title>
+          <source>Psychol Med</source>
+          <year>2003</year>
+          <volume>33</volume>
+          <fpage>1341</fpage>
+          <lpage>55</lpage>
+          <pub-id pub-id-type="pmid">14672243</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref25">
+        <label>25</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kovacs</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <source>Children's Depression Inventory: Manual</source>
+          <year>1992</year>
+          <publisher-loc>North Tonawanda, NY</publisher-loc>
+          <publisher-name>Multi-Health Systems</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="ref26">
+        <label>26</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kovacs</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>The children's depression, inventory (CDI)</article-title>
+          <source>Psychopharmacol Bull</source>
+          <year>1985</year>
+          <volume>21</volume>
+          <fpage>995</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="pmid">4089116</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref27">
+        <label>27</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gupta</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Verma</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Singh</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Gupta</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <article-title>Prevalence of behavioral problems in school going children</article-title>
+          <source>Indian J Pediatr</source>
+          <year>2001</year>
+          <volume>68</volume>
+          <fpage>323</fpage>
+          <lpage>6</lpage>
+          <pub-id pub-id-type="pmid">11370438</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref28">
+        <label>28</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Srinath</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Girimaji</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Gururaj</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Seshadri</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Subbakrishna</surname>
+              <given-names>DK</given-names>
+            </name>
+            <name>
+              <surname>Bhola</surname>
+              <given-names>P</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Epidemiological study of child &amp;amp; amp; adolescent psychiatric disorders in urban &amp;amp; amp; rural areas of Bangalore, India</article-title>
+          <source>Indian J Med Res</source>
+          <year>2005</year>
+          <volume>122</volume>
+          <fpage>67</fpage>
+          <lpage>79</lpage>
+          <pub-id pub-id-type="pmid">16106093</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref29">
+        <label>29</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Malhotra</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Kohli</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Arun</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Prevalence of psychiatric disorders in school children in Chandigarh, India</article-title>
+          <source>Indian J Med Res</source>
+          <year>2002</year>
+          <volume>116</volume>
+          <fpage>21</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="pmid">12514974</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref30">
+        <label>30</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mishra</surname>
+              <given-names>SK</given-names>
+            </name>
+            <name>
+              <surname>Srivastava</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Tiwary</surname>
+              <given-names>NK</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Prevalence of depression and anxiety among children in rural and suburban areas of Eastern Uttar Pradesh: A cross-sectional study</article-title>
+          <source>J Family Med Prim Care</source>
+          <year>2018</year>
+          <volume>7</volume>
+          <fpage>21</fpage>
+          <lpage>6</lpage>
+          <pub-id pub-id-type="pmid">29915728</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref31">
+        <label>31</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hankin</surname>
+              <given-names>BL</given-names>
+            </name>
+            <name>
+              <surname>Abramson</surname>
+              <given-names>LY</given-names>
+            </name>
+            <name>
+              <surname>Moffitt</surname>
+              <given-names>TE</given-names>
+            </name>
+            <name>
+              <surname>Silva</surname>
+              <given-names>PA</given-names>
+            </name>
+            <name>
+              <surname>McGee</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Angell</surname>
+              <given-names>KE</given-names>
+            </name>
+          </person-group>
+          <article-title>Development of depression from preadolescence to young adulthood: Emerging gender differences in a 10-year longitudinal study</article-title>
+          <source>J Abnorm Psychol</source>
+          <year>1998</year>
+          <volume>107</volume>
+          <fpage>128</fpage>
+          <lpage>40</lpage>
+          <pub-id pub-id-type="pmid">9505045</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref32">
+        <label>32</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Angold</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Costello</surname>
+              <given-names>EJ</given-names>
+            </name>
+            <name>
+              <surname>Erkanli</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Worthman</surname>
+              <given-names>CM</given-names>
+            </name>
+          </person-group>
+          <article-title>Pubertal changes in hormone levels and depression in girls</article-title>
+          <source>Psychol Med</source>
+          <year>1999</year>
+          <volume>29</volume>
+          <fpage>1043</fpage>
+          <lpage>53</lpage>
+          <pub-id pub-id-type="pmid">10576297</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref33">
+        <label>33</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Smith</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Bryant</surname>
+              <given-names>RG</given-names>
+            </name>
+          </person-group>
+          <article-title>Metal substitutions incarbonic anhydrase: A halide ion probe study</article-title>
+          <source>Biochem Biophys Res Commun</source>
+          <year>1975</year>
+          <volume>66</volume>
+          <fpage>1281</fpage>
+          <lpage>6</lpage>
+          <pub-id pub-id-type="pmid">3</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref34">
+        <label>34</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Putter</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>The effects of Birth order on depressive symptoms in early Adolescence</article-title>
+          <source>Perspect Psychol</source>
+          <year>2003</year>
+          <volume>6</volume>
+          <fpage>9</fpage>
+          <lpage>18</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref35">
+        <label>35</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Black</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Devereux</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Salvanes</surname>
+              <given-names>KG</given-names>
+            </name>
+          </person-group>
+          <article-title>Healthy(.), wealthy, and wise: Birth order and adult health?</article-title>
+          <source>Econ Hum Biol</source>
+          <year>2016</year>
+          <volume>23</volume>
+          <fpage>27</fpage>
+          <lpage>45</lpage>
+          <pub-id pub-id-type="pmid">27442721</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref36">
+        <label>36</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rutter</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Strauss</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Babigian</surname>
+              <given-names>HM</given-names>
+            </name>
+            <name>
+              <surname>Roff</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Prospective Studies to Investigate Behavioral Change</article-title>
+          <source>The Origins and Course of Psychopathology</source>
+          <year>1977</year>
+          <publisher-loc>Boston, MA</publisher-loc>
+          <publisher-name>Springer</publisher-name>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

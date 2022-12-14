@@ -9,7 +9,7 @@ class Server():
         self.port = port
         self.poisonpill = poisonpill
 
-    def make_server_manager(self, port, authkey):
+    def make_server_manager(self, ip, port, authkey):
         """ Create a manager for the server, listening on the given port.
             Return a manager object with get_job_q and get_result_q methods.
         """
@@ -25,15 +25,15 @@ class Server():
         QueueManager.register('get_job_q', callable=lambda: job_q)
         QueueManager.register('get_result_q', callable=lambda: result_q)
 
-        manager = QueueManager(address=('', port), authkey=authkey)
+        manager = QueueManager(address=(ip, port), authkey=authkey)
         manager.start()
         print('Server started at port %s' % port)
         return manager
 
 
-    def runserver(self, fn, data, portnumber):
+    def runserver(self, fn, data, portnumber, ip):
         # Start a shared manager server and access its queues
-        manager = self.make_server_manager(portnumber, b'whathasitgotinitspocketsesss?')
+        manager = self.make_server_manager(ip, portnumber, b'whathasitgotinitspocketsesss?')
         shared_job_q = manager.get_job_q()
         shared_result_q = manager.get_result_q()
         
