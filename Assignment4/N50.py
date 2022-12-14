@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
-## calculate N50 from fasta file
-## N50 = contig length such that half of the contigs are longer and 1/2 of contigs are shorter
+# code inspired on https://gist.github.com/dinovski/2bcdcc770d5388c6fcc8a656e5dbe53c
 
 #import commands
 import sys
