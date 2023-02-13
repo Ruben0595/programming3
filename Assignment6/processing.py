@@ -6,7 +6,7 @@ def file_cleaner(df):
     df.columns = columns
     data = df.drop(["Analysis", "Sequence_MD5_digest", "Signature_accession", "Signature_description", "Score", "Status", "Date", "InterPro_annotations_description", "GO_annotations", "Pathways_annotations"], axis=1)
     data = data.dropna()
-    '''drop every row containing '-' in the column 'InterPro_annotations_accession'''
+    '''delete rows containing '-' in InterPro_annotations_accession, since we cannot use this data'''
     data = data[data['InterPro_annotations_accession'] != '-']
     return data
 
@@ -31,11 +31,11 @@ def find_long_short(data):
     return protein_0, protein_90
 
 def create_matrix(data):
-    data['count'] = 1
+    data['sum'] = 1
     data = data.drop('Long', axis = 1)
     data = data.categorize(columns=['Short'])
     Matrix = dd.reshape.pivot_table(data, index="Protein_accession",
-                                    columns='Short', values="count",
+                                    columns='Short', values="sum",
                                     aggfunc='sum')
     return Matrix
 
